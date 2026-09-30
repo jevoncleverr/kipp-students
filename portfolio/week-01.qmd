@@ -1,7 +1,7 @@
 ---
 title: "Character Map"
 week: 1
-status: "Belum dimulai"
+status: "Siap dinilai"
 self_score: "—"
 assessor_score: "—"
 description: "Evidence person, personality, character, objective, repertoire, language, action, dan relationship."
@@ -18,8 +18,116 @@ Membedakan person, personality, dan character serta memilih objective, repertoir
 - Objective, responsibility, repertoire, dan risiko tiap character.
 - Satu contoh perubahan language ketika character berubah.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 1](../examples/week-01.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+## Konteks performance
+**Tanggal dan setting:** 7 September 2026, saat kuliah Arsitektur Komputer Ruang 7601. Bentuk kegiatan berupa percakapan langsung dengan teman setelah pembahasan materi bilangan biner dan heksadesimal.
+
+**Persons dan relationship:** Saya dan seorang teman dekat sebagai sesama mahasiswa. Tidak mencantumkan data pribadi lain karena tidak diperlukan untuk analisis.
+
+**Objective dan initial state:** Initial state adalah teman masih bingung mengenai cara mengonversi bilangan biner ke heksadesimal, terutama bagaimana menentukan nilai heksadesimal dari kelompok digit biner. Objective saya adalah membantu teman memahami cara konversinya sehingga tidak hanya mengetahui hasil akhirnya.
+
+## Lima character
+
+| Domain dan character | Person & relationship | Objective & responsibility | Repertoire & language | Risiko dan latihan |
+|---|---|---|---|---|
+|Intra-Self - Mahasiswa yang reflektif | Diri sendiri | Mengevaluasi kesalahan dan menentukan perbaikan | Menulis fakta, refleksi, membuat action plan | Terlalu menyalahkan diri sendiri -> Memisahkan fakta dan asumsi |
+| Academic - anggota kelompok | Teman satu kelompok | Menyelesaikan tugas dan menyamakan pemahaman | Diskusi, bertanya, konfirmasi | Terlalu fokus pada hasil -> pastikan semua anggota memahami pembagian tugas | 
+|Profesional - Intern | Mentor dan rekan kerja | Menyelesaikan pekerjaan dan mengomunikasikan progress kepada mentor | Bertanya, mencatat arahan, update progress | Terlalu lama mencoba sendiri -> komunikasikan kendala setelah mencoba |
+|Organisasi - Rekan divisi/panitia | Rekan divisi/panitia | Menyelesaikan tanggung jawab dan mencapai target tim | Diskusi, koordinasi, follow-up | Terlalu langsung -> Jelaskan konteks sebelum meminta sesuatu |
+| Community | Teman atau peserta yang belajar | Membantu orang lain memahami materi | Analogi, contoh sederhana, tanya jawab | Terlalu banyak menjelaskan -> cek pemahaman sebelum lanjut |
+
+## Evidence
+
+::: {.evidence-block}
+## Konteks
+
+Saat kuliah Arsitektur Komputer, dosen menjelaskan materi mengenai bilangan biner dan konversinya ke heksadesimal. Teman dekat saya masih bingung mengapa hasil perhitungannya bisa seperti itu dan bagaimana cara menghitungnya ke heksadesimal. Ia kemudian meminta saya menjelaskan kembali materi tersebut.
+
+## Objective dan responsibility
+
+Objective saya adalah membantu teman memahami cara melakukan konversi biner ke heksadesimal, bukan hanya memberikan hasil akhirnya.
+
+Dalam character sebagai teman yang membantu, responsibility saya adalah mengidentifikasi bagian yang belum dipahami, menjelaskan bagian tersebut dengan cara yang dapat diikuti, dan memberikan kesempatan kepada teman untuk mengonfirmasi pemahamannya.
+
+Catatan: Bagian berikut merupakan rekonstruksi/paraphrase dari percakapan yang telah dilakukan, bukan transcript verbatim. Dialog ditulis kembali untuk merepresentasikan inti pertanyaan, respons, dan proses konfirmasi masalah.
+
+> **Nathan:** "Jev, minta tolong jelasin dong kenapa angkanya gitu?"
+> **Saya:** "Bagian mana yang masih bingung?"
+> **Nathan:** "Gw masih bingung cara ngitung dari biner ke hex deh."
+> **Saya:** "Coba, gampangnya gini setiap 4 angka itu mewakili bilangan hex dan lu bisa liat dari tabelnya.."
+> **Nathan:** "Oh, jadi cara carinya gitu ya?"
+> **Saya:** "Iya, sebenernya masih mudah kalau menghitung seperti itu, karena juga kita hanya mengambil sebagian untuk tahu hex nya apa."
+
+## Response dan adaptation
+
+Signal dari teman: "Gw masih bingung cara ngitung dari biner ke hex deh."
+
+Interpretasi saya:
+Saya memahami bahwa teman belum membutuhkan hasil akhir saja, tetapi masih belum memahami proses menentukan nilai heksadesimal dari bilangan biner.
+
+Adaptation: Saya tidak langsung menjelaskan seluruh materi. Saya terlebih dahulu menanyakan bagian yang belum dipahami. Setelah mengetahui bahwa kesulitannya berada pada proses konversi, saya menggunakan penjelasan yang lebih sederhana dengan mengelompokkan empat digit biner dan menggunakan tabel konversi heksadesimal.
+
+Response berikutnya: "Oh, jadi cara carinya gitu ya?"
+Respons tersebut menjadi evidence bahwa teman dapat mengikuti metode yang baru dijelaskan.
+
+## Perubahan language
+Character 1 — teman yang membantu teman dekat
+Dalam character sebagai teman yang membantu teman dekat, saya menggunakan bahasa informal dan sederhana: 
+> "Setiap 4 angka biner itu bisa dikelompokkan, terus lihat nilainya di tabel hex."
+
+Character 2 — mahasiswa dalam konteks akademik
+Jika saya berada dalam character sebagai mahasiswa yang menjelaskan materi dalam konteks akademik yang lebih formal, saya akan menggunakan language yang lebih formal dan teknis:
+> "Bilangan biner dapat dikelompokkan menjadi empat bit. Setiap kelompok empat bit kemudian dipetakan ke satu digit heksadesimal berdasarkan nilai konversinya."
+
+Core information tetap sama, tetapi language dan repertoire disesuaikan agar teman lebih mudah memahami teori.
+
+| Elemen | Character 1: Teman yang membantu	| Character 2: Mahasiswa dalam konteks akademik |
+|Core information | Konversi biner ke heksadesimal | Konversi biner ke heksadesimal |
+| Language | Informal dan sederhana | Lebih formal dan teknis |
+|Istilah | "4 angka", "hex", "lihat tabel" | "empat bit", "digit heksadesimal", "dipetakan" |
+| Relationship |Teman dekat | Konteks akademik |
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Analisis komunikasi
+| Elemen | Evidence dan analisis |
+|---|---|
+| Person & character | Saya berperan sebagai teman yang membantu memahami materi, bukan sebagai pengajar formal. |
+| Objective & state | Initial state adalah teman masih bingung dengan konversi biner ke heksadesimal. Objective saya adalah membantu teman memahami konsep dan cara perhitungannya. |
+| Repertoire & language | Saya menggunakan bahasa sederhana dan menjelaskan aturan pengelompokan empat digit biner serta tabel konversi heksadesimal daripada menggunakan terlalu banyak istilah teknis. |
+| Response & adaptation | Saya terlebih dahulu menanyakan bagian yang belum dipahami, kemudian menyesuaikan penjelasan berdasarkan jawaban teman. |
+| Agreement/action | Saya memastikan bagian yang dijelaskan sesuai dengan kesulitan teman sebelum melanjutkan penjelasan. |
+| Relationship outcome | Teman memberikan respons bahwa cara tersebut lebih mudah dipahami, sehingga tujuan utama percakapan untuk membantu memahami konversi biner ke heksadesimal tercapai. |
+
+## Penggunaan AI
+Tidak menggunakan AI.
+
+Saya menjelaskan materi berdasarkan pemahaman saya sendiri. AI tidak digunakan sebagai sumber penjelasan, pengambil keputusan, atau alat untuk menentukan respons dalam percakapan.
+
+Pembelajaran utama saya berasal dari proses memahami materi, mengidentifikasi bagian yang belum dipahami teman, dan menyesuaikan cara menjelaskan.
+
+## Feedback dan tindak lanjut
+Feedback yang diterima: Teman merespons, "Oh, jadi cara carinya gitu ya?", yang menunjukkan bahwa penjelasan tersebut membantu memperjelas cara konversi yang sebelumnya membingungkan.
+
+Adaptation/replay: Saya tidak langsung memberikan penjelasan panjang. Saya terlebih dahulu menanyakan bagian yang membingungkan, kemudian menggunakan pendekatan yang lebih sederhana berdasarkan jawaban teman.
+
+Next practice: Saya akan membiasakan diri menanyakan bagian yang belum dipahami sebelum memberikan penjelasan agar repertoire dan language yang digunakan lebih sesuai dengan kebutuhan lawan bicara.
+
+## Self-assessment
+
+| Dimensi | Skor | Evidence singkat |
+| ------- | ---- | ------ |
+| Person & Character | 4 | Saya dapat menyesuaikan peran sebagai teman dengan situasi ketika membantu menjelaskan materi kepada orang lain |
+| Objective & State | 3 | Saya memiliki tujuan yang jelas, yaitu memastikan teman memahami konsep sebelum melanjutkan pembahasan |
+| Repertoire, Language & AI | 4 | Saya mengubah cara menjelaskan dari istilah teknis menjadi contoh yang lebih sederhana ketika melihat teman masih mengalami kesulitan |
+| Response & Adaptation | 4 | Saya menggunakan respons teman sebagai dasar untuk menentukan bagian mana yang perlu dijelaskan kembali dengan pendekatan yang berbeda |
+| Agreement, Action & Relationship | 3 | Saya tidak hanya berfokus pada penyampaian materi, tetapi juga memastikan teman dapat mengikuti pembahasan dan tetap nyaman untuk bertanya |
+
+**Total: 18/20 - Kompeten.** Masih perlu latihan agar dapat lebih konsisten menyesuaikan repertoire dan language berdasarkan kebutuhan lawan bicara.
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::

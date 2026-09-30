@@ -1,7 +1,7 @@
 ---
 title: "Five-Language Translation Portfolio"
 week: 4
-status: "Belum dimulai"
+status: "Siap dinilai"
 self_score: "—"
 assessor_score: "—"
 description: "Satu meaning untuk lima person atau character."
@@ -18,8 +18,91 @@ Mengadaptasi repertoire dan language tanpa mengubah core meaning.
 - Alasan perubahan language dan repertoire.
 - Feedback understanding dari sedikitnya satu target.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 4](../examples/week-04.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+## Konteks performance
+
+**Tanggal dan setting:** Kegiatan dilakukan dalam konteks magang Data Engineering di Telkomsel sekitar bulan Juli - September 2026, ketika saya menjelaskan materi mengenai konsep dan cara kerja infrastruktur Data Engineering yang digunakan dalam proses pengelolaan data. Percakapan dan presentasi dilakukan dalam konteks kegiatan magang. Tanggal spesifik kegiatan tidak dicatat dalam evidence yang tersedia.
+
+**Persons dan relationship:** Saya berinteraksi dengan teman sesama intern dan manager dalam konteks kegiatan magang. Teman sesama intern memiliki konteks pemahaman yang lebih dekat dengan saya sebagai peserta magang, sedangkan manager berperan sebagai pihak yang memberikan arahan dan mengevaluasi pemahaman saya terhadap materi.
+
+**Objective dan initial state:** Objective saya adalah menjelaskan konsep dan cara kerja infrastruktur Data Engineering dengan tetap mempertahankan core meaning, tetapi menyesuaikan language dan tingkat teknis berdasarkan audience.
+
+Initial state menunjukkan bahwa kebutuhan informasi berbeda berdasarkan audience. Teman sesama intern dapat menerima penjelasan dengan bahasa yang lebih sederhana, sedangkan manager membutuhkan penjelasan yang lebih teknis dan dapat digunakan untuk melihat pemahaman saya terhadap materi.
+
+## Evidence
+::: {.evidence-block}
+
+Evidence utama berupa catatan retrospektif mengenai pengalaman menjelaskan materi infrastruktur Data Engineering dalam konteks magang.
+
+Kontribusi saya adalah menyusun dan menyampaikan penjelasan mengenai konsep serta cara kerja infrastruktur Data Engineering, kemudian menyesuaikan tingkat teknis dan bahasa berdasarkan audience.
+
+Core meaning yang dipertahankan adalah bahwa Data Engineering membantu mengelola data dari berbagai sumber melalui proses seperti data source, pipeline, processing, hingga data siap digunakan.
+
+Adaptasi language dilakukan sebagai berikut:
+| Target/character | Versi language | Alasan adaptasi |
+|---|---|---|
+| Friend | "Sederhananya, Data Engineering membantu mengolah data dari sumber awal sampai siap digunakan." | Bahasa mudah dan tidak terlalu teknis. |
+| Technical peer | "Data Engineering mencakup data source, pipeline, processing, dan penyimpanan data." | Menggunakan istilah dan bukti teknis. |
+| Manager | "Infrastruktur Data Engineering mendukung proses data dan memberikan impact terhadap decision." | Fokus pada impact dan decision. |
+| Customer | "Infrastruktur data membantu menyediakan informasi yang dibutuhkan pengguna." | Fokus pada manfaat bagi customer. |
+| Public | "Data Engineering membantu organisasi mengelola dan menggunakan data dari berbagai sumber." | Bahasa umum tanpa detail teknis. |
+
+Pengalaman yang benar-benar terjadi dalam konteks magang adalah penjelasan kepada teman sesama intern dan manager. Lima versi pada tabel merupakan adaptasi untuk memenuhi kebutuhan lima target audience dan tidak diklaim sebagai lima percakapan yang semuanya benar-benar terjadi.
+
+Feedback understanding yang tersedia berasal dari interaksi dengan manager ketika presentasi digunakan untuk menguji pemahaman saya terhadap materi melalui pertanyaan dan pembahasan.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+
+
+**## Analisis komunikasi**
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| Person & character | Saya membedakan kebutuhan informasi berdasarkan posisi audience. Teman sesama intern memiliki konteks pemahaman yang lebih dekat dengan saya, sedangkan manager memiliki peran sebagai pihak yang mengevaluasi pemahaman saya. |
+| Objective & state | Objective saya adalah menyampaikan core meaning yang sama kepada audience dengan kebutuhan informasi yang berbeda. Initial state menunjukkan adanya perbedaan tingkat kebutuhan teknis antara intern dan manager. |
+| Repertoire & language | Saya mengubah tingkat teknis, istilah, detail, dan fokus penjelasan. Friend dan public menggunakan bahasa yang lebih sederhana, technical peer menggunakan istilah teknis, manager berfokus pada impact dan decision, sedangkan customer berfokus pada manfaat informasi. |
+| Response & adaptation | Saya menyesuaikan cara menjelaskan berdasarkan audience. Dalam pengalaman dengan manager, pertanyaan dan pembahasan digunakan untuk melihat pemahaman saya terhadap materi. Hal tersebut menjadi feedback bahwa penjelasan kepada manager perlu menunjukkan pemahaman terhadap konsep, bukan hanya menyebutkan istilah teknis. |
+| Agreement/action | Tidak terdapat formal agreement. Action yang terlihat adalah saya menyusun dan menyampaikan materi dengan tingkat teknis yang berbeda sesuai audience serta mempertahankan core meaning yang sama. |
+| Relationship outcome | Komunikasi dilakukan sesuai konteks hubungan masing-masing audience. Saya dapat menjelaskan materi kepada intern sebagai rekan belajar dan kepada manager dalam konteks evaluasi pemahaman, tanpa mengubah fakta utama dari materi. |
+
+## Penggunaan AI
+
+**Tidak menggunakan AI.**
+
+Lima versi language dan adaptasinya disusun berdasarkan pemahaman saya terhadap materi Data Engineering serta pengalaman berkomunikasi dengan audience dalam konteks magang.
+
+Tidak terdapat prompt atau output AI yang digunakan, diubah, atau ditolak.
+
+Karena AI tidak digunakan, pemeriksaan accuracy dilakukan berdasarkan pemahaman terhadap materi dan konteks kegiatan magang. Privacy dijaga dengan tidak memasukkan data pribadi yang tidak diperlukan ke dalam portfolio. Authority berasal dari materi yang dipelajari dan konteks komunikasi saat magang, bukan dari output AI.
+
+Hal yang tetap saya pelajari sebagai manusia adalah bagaimana mempertahankan core meaning sambil menyesuaikan istilah, tingkat teknis, dan fokus informasi berdasarkan kebutuhan audience.
+
+## Feedback dan tindak lanjut
+
+****Feedback yang diterima:**** Dalam konteks magang, manager menggunakan presentasi yang saya sampaikan untuk menguji pemahaman saya terhadap materi. Feedback diperoleh melalui pertanyaan dan pembahasan mengenai materi yang saya jelaskan.
+
+**Adaptation/replay:** Saya membedakan cara menjelaskan berdasarkan audience. Kepada teman sesama intern, saya menggunakan bahasa yang lebih sederhana. Kepada manager, saya menggunakan istilah yang lebih teknis dan menghubungkan penjelasan dengan impact serta decision. Core meaning mengenai fungsi dan proses Data Engineering tetap dipertahankan.
+
+**Next practice:** Pada kesempatan berikutnya, saya akan melatih diri untuk menentukan kebutuhan informasi audience terlebih dahulu sebelum memilih tingkat teknis dan istilah yang digunakan.
+
+## Self-assessment
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+|---|---:|---|
+| Person & Character | 3 | Saya membedakan kebutuhan informasi berdasarkan audience, yaitu teman sesama intern dan manager dalam konteks magang. |
+| Objective & State | 3 | Objective saya adalah mempertahankan core meaning sambil menyesuaikan penyampaian dengan kebutuhan audience. |
+| Repertoire, Language & AI | 4 | Saya mengadaptasi tingkat teknis, istilah, detail, dan fokus untuk lima target audience tanpa mengubah core meaning. |
+| Response & Adaptation | 3 | Saya menggunakan konteks dan respons audience untuk membedakan cara menjelaskan kepada intern dan manager. |
+| Agreement, Action & Relationship | 3 | Saya mengambil tindakan untuk menyesuaikan penyampaian dengan audience dan mempertahankan hubungan komunikasi sesuai konteks masing-masing. |
+
+**Total:** 16 / 20
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::
+
+

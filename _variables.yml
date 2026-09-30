@@ -1,16 +1,16 @@
 student:
-  name: "Nama Mahasiswa"
-  id: "NIM"
-  program: "Program Studi"
-  cohort: "Angkatan"
-  email: "nama@kampus.ac.id"
+  name: "Jevon Cleverivello Aritonang"
+  id: "18225051"
+  program: "Sistem Teknologi dan Informasi"
+  cohort: "25"
+  email: "18225051@std.stei.itb.ac.id"
 
 course:
   code: "KIPP-2"
   name: "Komunikasi Inter Personal dan Publik"
   lecturer: "Armein Z. R. Langi"
-  semester: "Semester / Tahun Akademik"
+  semester: "3 / 2026"
 
 repository:
-  url: "https://github.com/USERNAME/NAMA-REPOSITORY"
+  url: "https://github.com/jevoncleverr/kipp-students"
 
