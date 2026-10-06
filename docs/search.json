@@ -1641,7 +1641,7 @@
     "href": "portfolio/week-04.html#evidence-wajib",
     "title": "Five-Language Translation Portfolio",
     "section": "Evidence wajib",
-    "text": "Evidence wajib\n\nLima versi untuk friend, technical peer, manager, customer, dan public.\nAlasan perubahan language dan repertoire.\nFeedback understanding dari sedikitnya satu target.\n\n\n\n\n\n\n\nTipLihat contoh pengisian\n\n\n\nBuka contoh fiktif Minggu 4 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.",
+    "text": "Evidence wajib\n\nLima versi untuk friend, technical peer, manager, customer, dan public.\nAlasan perubahan language dan repertoire.\nFeedback understanding dari sedikitnya satu target.",
     "crumbs": [
       "Beranda",
       "Five-Language Translation Portfolio"
@@ -1652,7 +1652,7 @@
     "href": "portfolio/week-04.html#konteks-performance",
     "title": "Five-Language Translation Portfolio",
     "section": "Konteks performance",
-    "text": "Konteks performance\nTanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.\nPersons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.\nObjective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.",
+    "text": "Konteks performance\nTanggal dan setting: Kegiatan dilakukan dalam konteks magang Data Engineering di Telkomsel sekitar bulan Juli - September 2026, ketika saya menjelaskan materi mengenai konsep dan cara kerja infrastruktur Data Engineering yang digunakan dalam proses pengelolaan data. Percakapan dan presentasi dilakukan dalam konteks kegiatan magang. Tanggal spesifik kegiatan tidak dicatat dalam evidence yang tersedia.\nPersons dan relationship: Saya berinteraksi dengan teman sesama intern dan manager dalam konteks kegiatan magang. Teman sesama intern memiliki konteks pemahaman yang lebih dekat dengan saya sebagai peserta magang, sedangkan manager berperan sebagai pihak yang memberikan arahan dan mengevaluasi pemahaman saya terhadap materi.\nObjective dan initial state: Objective saya adalah menjelaskan konsep dan cara kerja infrastruktur Data Engineering dengan tetap mempertahankan core meaning, tetapi menyesuaikan language dan tingkat teknis berdasarkan audience.\nInitial state menunjukkan bahwa kebutuhan informasi berbeda berdasarkan audience. Teman sesama intern dapat menerima penjelasan dengan bahasa yang lebih sederhana, sedangkan manager membutuhkan penjelasan yang lebih teknis dan dapat digunakan untuk melihat pemahaman saya terhadap materi.",
     "crumbs": [
       "Beranda",
       "Five-Language Translation Portfolio"
@@ -1663,18 +1663,7 @@
     "href": "portfolio/week-04.html#evidence",
     "title": "Five-Language Translation Portfolio",
     "section": "Evidence",
-    "text": "Evidence\n\nTambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.",
-    "crumbs": [
-      "Beranda",
-      "Five-Language Translation Portfolio"
-    ]
-  },
-  {
-    "objectID": "portfolio/week-04.html#analisis-komunikasi",
-    "href": "portfolio/week-04.html#analisis-komunikasi",
-    "title": "Five-Language Translation Portfolio",
-    "section": "Analisis komunikasi",
-    "text": "Analisis komunikasi\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nGanti dengan analisis Anda.\n\n\nObjective & state\nGanti dengan analisis Anda.\n\n\nRepertoire & language\nGanti dengan analisis Anda.\n\n\nResponse & adaptation\nGanti dengan analisis Anda.\n\n\nAgreement/action\nGanti dengan analisis Anda.\n\n\nRelationship outcome\nGanti dengan analisis Anda.",
+    "text": "Evidence\n\nEvidence utama berupa catatan retrospektif mengenai pengalaman menjelaskan materi infrastruktur Data Engineering dalam konteks magang.\nKontribusi saya adalah menyusun dan menyampaikan penjelasan mengenai konsep serta cara kerja infrastruktur Data Engineering, kemudian menyesuaikan tingkat teknis dan bahasa berdasarkan audience.\nCore meaning yang dipertahankan adalah bahwa Data Engineering membantu mengelola data dari berbagai sumber melalui proses seperti data source, pipeline, processing, hingga data siap digunakan.\nAdaptasi language dilakukan sebagai berikut: | Target/character | Versi language | Alasan adaptasi | |—|—|—| | Friend | “Sederhananya, Data Engineering membantu mengolah data dari sumber awal sampai siap digunakan.” | Bahasa mudah dan tidak terlalu teknis. | | Technical peer | “Data Engineering mencakup data source, pipeline, processing, dan penyimpanan data.” | Menggunakan istilah dan bukti teknis. | | Manager | “Infrastruktur Data Engineering mendukung proses data dan memberikan impact terhadap decision.” | Fokus pada impact dan decision. | | Customer | “Infrastruktur data membantu menyediakan informasi yang dibutuhkan pengguna.” | Fokus pada manfaat bagi customer. | | Public | “Data Engineering membantu organisasi mengelola dan menggunakan data dari berbagai sumber.” | Bahasa umum tanpa detail teknis. |\nPengalaman yang benar-benar terjadi dalam konteks magang adalah penjelasan kepada teman sesama intern dan manager. Lima versi pada tabel merupakan adaptasi untuk memenuhi kebutuhan lima target audience dan tidak diklaim sebagai lima percakapan yang semuanya benar-benar terjadi.\nFeedback understanding yang tersedia berasal dari interaksi dengan manager ketika presentasi digunakan untuk menguji pemahaman saya terhadap materi melalui pertanyaan dan pembahasan.\n\n## Analisis komunikasi\n\n\n\n\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nSaya membedakan kebutuhan informasi berdasarkan posisi audience. Teman sesama intern memiliki konteks pemahaman yang lebih dekat dengan saya, sedangkan manager memiliki peran sebagai pihak yang mengevaluasi pemahaman saya.\n\n\nObjective & state\nObjective saya adalah menyampaikan core meaning yang sama kepada audience dengan kebutuhan informasi yang berbeda. Initial state menunjukkan adanya perbedaan tingkat kebutuhan teknis antara intern dan manager.\n\n\nRepertoire & language\nSaya mengubah tingkat teknis, istilah, detail, dan fokus penjelasan. Friend dan public menggunakan bahasa yang lebih sederhana, technical peer menggunakan istilah teknis, manager berfokus pada impact dan decision, sedangkan customer berfokus pada manfaat informasi.\n\n\nResponse & adaptation\nSaya menyesuaikan cara menjelaskan berdasarkan audience. Dalam pengalaman dengan manager, pertanyaan dan pembahasan digunakan untuk melihat pemahaman saya terhadap materi. Hal tersebut menjadi feedback bahwa penjelasan kepada manager perlu menunjukkan pemahaman terhadap konsep, bukan hanya menyebutkan istilah teknis.\n\n\nAgreement/action\nTidak terdapat formal agreement. Action yang terlihat adalah saya menyusun dan menyampaikan materi dengan tingkat teknis yang berbeda sesuai audience serta mempertahankan core meaning yang sama.\n\n\nRelationship outcome\nKomunikasi dilakukan sesuai konteks hubungan masing-masing audience. Saya dapat menjelaskan materi kepada intern sebagai rekan belajar dan kepada manager dalam konteks evaluasi pemahaman, tanpa mengubah fakta utama dari materi.",
     "crumbs": [
       "Beranda",
       "Five-Language Translation Portfolio"
@@ -1685,7 +1674,7 @@
     "href": "portfolio/week-04.html#penggunaan-ai",
     "title": "Five-Language Translation Portfolio",
     "section": "Penggunaan AI",
-    "text": "Penggunaan AI\nNyatakan Tidak menggunakan AI atau jelaskan:\n\nalat dan peran AI;\nprompt atau instruksi penting;\nbagian output yang digunakan, diubah, atau ditolak;\npemeriksaan accuracy, privacy, dan authority;\napa yang tetap Anda pelajari sebagai manusia.",
+    "text": "Penggunaan AI\nTidak menggunakan AI.\nLima versi language dan adaptasinya disusun berdasarkan pemahaman saya terhadap materi Data Engineering serta pengalaman berkomunikasi dengan audience dalam konteks magang.\nTidak terdapat prompt atau output AI yang digunakan, diubah, atau ditolak.\nKarena AI tidak digunakan, pemeriksaan accuracy dilakukan berdasarkan pemahaman terhadap materi dan konteks kegiatan magang. Privacy dijaga dengan tidak memasukkan data pribadi yang tidak diperlukan ke dalam portfolio. Authority berasal dari materi yang dipelajari dan konteks komunikasi saat magang, bukan dari output AI.\nHal yang tetap saya pelajari sebagai manusia adalah bagaimana mempertahankan core meaning sambil menyesuaikan istilah, tingkat teknis, dan fokus informasi berdasarkan kebutuhan audience.",
     "crumbs": [
       "Beranda",
       "Five-Language Translation Portfolio"
@@ -1696,7 +1685,7 @@
     "href": "portfolio/week-04.html#feedback-dan-tindak-lanjut",
     "title": "Five-Language Translation Portfolio",
     "section": "Feedback dan tindak lanjut",
-    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.\nAdaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.\nNext practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.",
+    "text": "Feedback dan tindak lanjut\n****Feedback yang diterima:**** Dalam konteks magang, manager menggunakan presentasi yang saya sampaikan untuk menguji pemahaman saya terhadap materi. Feedback diperoleh melalui pertanyaan dan pembahasan mengenai materi yang saya jelaskan.\nAdaptation/replay: Saya membedakan cara menjelaskan berdasarkan audience. Kepada teman sesama intern, saya menggunakan bahasa yang lebih sederhana. Kepada manager, saya menggunakan istilah yang lebih teknis dan menghubungkan penjelasan dengan impact serta decision. Core meaning mengenai fungsi dan proses Data Engineering tetap dipertahankan.\nNext practice: Pada kesempatan berikutnya, saya akan melatih diri untuk menentukan kebutuhan informasi audience terlebih dahulu sebelum memilih tingkat teknis dan istilah yang digunakan.",
     "crumbs": [
       "Beranda",
       "Five-Language Translation Portfolio"
@@ -1707,7 +1696,7 @@
     "href": "portfolio/week-04.html#self-assessment",
     "title": "Five-Language Translation Portfolio",
     "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n—\n—\n\n\nObjective & State\n—\n—\n\n\nRepertoire, Language & AI\n—\n—\n\n\nResponse & Adaptation\n—\n—\n\n\nAgreement, Action & Relationship\n—\n—\n\n\n\nTotal: — / 20\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
+    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n3\nSaya membedakan kebutuhan informasi berdasarkan audience, yaitu teman sesama intern dan manager dalam konteks magang.\n\n\nObjective & State\n3\nObjective saya adalah mempertahankan core meaning sambil menyesuaikan penyampaian dengan kebutuhan audience.\n\n\nRepertoire, Language & AI\n4\nSaya mengadaptasi tingkat teknis, istilah, detail, dan fokus untuk lima target audience tanpa mengubah core meaning.\n\n\nResponse & Adaptation\n3\nSaya menggunakan konteks dan respons audience untuk membedakan cara menjelaskan kepada intern dan manager.\n\n\nAgreement, Action & Relationship\n3\nSaya mengambil tindakan untuk menyesuaikan penyampaian dengan audience dan mempertahankan hubungan komunikasi sesuai konteks masing-masing.\n\n\n\nTotal: 16 / 20\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
     "crumbs": [
       "Beranda",
       "Five-Language Translation Portfolio"
@@ -1740,7 +1729,7 @@
     "href": "portfolio/week-02.html#evidence-wajib",
     "title": "Intra-Self Communication Journal",
     "section": "Evidence wajib",
-    "text": "Evidence wajib\n\nSatu episode komunikasi dengan diri sendiri.\nInitial story dan sedikitnya dua alternative narratives.\nInternal agreement dan bukti tindakan berikutnya.\n\n\n\n\n\n\n\nTipLihat contoh pengisian\n\n\n\nBuka contoh fiktif Minggu 2 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.",
+    "text": "Evidence wajib\n\nSatu episode komunikasi dengan diri sendiri.\nInitial story dan sedikitnya dua alternative narratives.\nInternal agreement dan bukti tindakan berikutnya.",
     "crumbs": [
       "Beranda",
       "Intra-Self Communication Journal"
@@ -1751,7 +1740,40 @@
     "href": "portfolio/week-02.html#konteks-performance",
     "title": "Intra-Self Communication Journal",
     "section": "Konteks performance",
-    "text": "Konteks performance\nTanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.\nPersons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.\nObjective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.",
+    "text": "Konteks performance\nTanggal dan setting: 11–20 September 2026 dalam EISD Competition. Episode terjadi ketika saya dan teman satu kelompok mengevaluasi kembali desain yang kami kerjakan di Figma selama proses perlombaan.\nPersons dan relationship: Saya dan teman satu kelompok sebagai anggota tim lomba UI/UX. Kami bersama-sama mengevaluasi desain dan mendiskusikan fitur yang masih perlu diperbaiki berdasarkan kebutuhan user.\nObjective dan initial state: Objective saya adalah memperbaiki desain agar lebih rapi, konsisten, dan sesuai dengan kebutuhan user.\nInitial state saya adalah merasa bahwa hasil desain yang sudah dibuat masih belum maksimal. Ketika melihat kembali desain di Figma, saya melihat beberapa bagian user flow dan UI consistency yang masih perlu diperbaiki. Saya juga menyadari bahwa ada fitur yang kurang sesuai dengan kebutuhan user dan sebaiknya tidak digunakan.",
+    "crumbs": [
+      "Beranda",
+      "Intra-Self Communication Journal"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-02.html#episode",
+    "href": "portfolio/week-02.html#episode",
+    "title": "Intra-Self Communication Journal",
+    "section": "Episode",
+    "text": "Episode\nEvent: Saat proses EISD Competition, saya dan teman satu kelompok melihat kembali desain yang telah dibuat di Figma. Setelah mengevaluasinya, saya merasa bahwa masih ada beberapa bagian yang belum maksimal, terutama pada user flow dan UI consistency.\n\n\n\n\n\n\n\nLapisan\nCatatan\n\n\n\n\nFact\nMasih terdapat bagian user flow dan UI consistency yang perlu diperbaiki, serta beberapa fitur yang kurang sesuai dengan kebutuhan user.\n\n\nInitial story\n“Wah, kita kurang maksimal banget. Harusnya beneran bisa all out”\n\n\nEmotion/body signal\nKecewa dan terdorong untuk langsung memperbaiki desain yang masih kurang.\n\n\nReactive character\n“Perfectionist” yang ingin semua bagian desain segera terlihat bagus dan rapi.\n\n\nDesired character\n“Reflective designer” yang mengevaluasi desain berdasarkan kebutuhan user dan menentukan fitur yang memang relevan.\n\n\n\nInitial story membuat saya melihat kekurangan desain sebagai tanda bahwa kami belum memberikan usaha secara maksimal. Setelah berdiskusi dengan teman satu kelompok dan melihat kembali kebutuhan user, saya menyadari bahwa memperbaiki desain bukan hanya tentang membuatnya terlihat lebih bagus, tetapi juga memastikan fitur yang digunakan memang relevan bagi user.",
+    "crumbs": [
+      "Beranda",
+      "Intra-Self Communication Journal"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-02.html#alternative-narratives",
+    "href": "portfolio/week-02.html#alternative-narratives",
+    "title": "Intra-Self Communication Journal",
+    "section": "Alternative narratives",
+    "text": "Alternative narratives\n\nImprovement opportunity: kekurangan pada desain dapat digunakan untuk menemukan bagian yang masih perlu diperbaiki sebelum hasil akhir dikumpulkan.\nUser-centered improvement: desain tidak perlu hanya dibuat semakin banyak fiturnya, tetapi perlu disesuaikan dengan kebutuhan user. Fitur yang tidak relevan dapat dikurangi agar pengalaman pengguna lebih jelas.\nPrioritized refinement: tidak semua bagian harus diperbaiki dengan cara yang sama. User flow, UI consistency, dan relevansi fitur menjadi bagian yang perlu diperhatikan terlebih dahulu.\n\nAlternative kedua paling membantu saya karena mengubah cara berpikir dari sekadar membuat desain lebih bagus menjadi memastikan bahwa desain benar-benar sesuai dengan kebutuhan user.",
+    "crumbs": [
+      "Beranda",
+      "Intra-Self Communication Journal"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-02.html#internal-conversation-dan-agreement",
+    "href": "portfolio/week-02.html#internal-conversation-dan-agreement",
+    "title": "Intra-Self Communication Journal",
+    "section": "Internal conversation dan agreement",
+    "text": "Internal conversation dan agreement\n\nPerfectionist: “Kita harus memperbaiki semuanya supaya desainnya bagus dan rapi.”\n\n\nReflective designer: “Bukan cuma soal membuat semuanya terlihat bagus. Kita perlu lihat lagi dari sisi user. Kalau ada fitur yang tidak sesuai kebutuhan, lebih baik dikurangi atau diubah.”\n\n\nSaya: “Kita perbaiki bagian yang paling penting, terutama user flow dan consistency, lalu cek lagi apakah fitur yang kita gunakan memang sesuai dengan user.”\n\nInternal agreement: saya akan mengevaluasi desain berdasarkan kebutuhan user, bukan hanya berdasarkan keinginan untuk membuat desain terlihat lebih lengkap.",
     "crumbs": [
       "Beranda",
       "Intra-Self Communication Journal"
@@ -1762,7 +1784,18 @@
     "href": "portfolio/week-02.html#evidence",
     "title": "Intra-Self Communication Journal",
     "section": "Evidence",
-    "text": "Evidence\n\nTambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.",
+    "text": "Evidence\n\nEvidence utama berasal dari proses evaluasi dan perbaikan desain selama EISD Competition pada 11–20 September 2026.\nBagian yang menjadi kontribusi saya adalah ikut mengidentifikasi bagian desain yang masih kurang, terutama user flow dan UI consistency, kemudian ikut mendiskusikan dan melakukan perbaikan bersama teman satu kelompok.\nDalam proses evaluasi, terdapat beberapa masukan terhadap desain, antara lain menambahkan fitur game, menambahkan fitur yang relevan, serta mengurangi fitur yang tidak sesuai dengan kebutuhan user.\nAI juga digunakan sebagai alat bantu dalam proses validasi dan membantu proses berpikir. AI tidak menjadi pengambil keputusan akhir mengenai desain. Keputusan mengenai fitur dan perubahan desain tetap didiskusikan dan ditentukan oleh tim berdasarkan kebutuhan user dan konteks kompetisi.",
+    "crumbs": [
+      "Beranda",
+      "Intra-Self Communication Journal"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-02.html#evidence-tindakan",
+    "href": "portfolio/week-02.html#evidence-tindakan",
+    "title": "Intra-Self Communication Journal",
+    "section": "Evidence tindakan",
+    "text": "Evidence tindakan\nSetelah menyadari bahwa desain masih belum maksimal, saya dan teman satu kelompok melakukan beberapa perbaikan.\nPerbaikan tersebut mencakup: - memperbaiki user flow; - meningkatkan UI consistency; - menambahkan fitur yang dianggap relevan, termasuk masukan mengenai fitur game; - mengurangi fitur yang tidak sesuai dengan kebutuhan user; - mengevaluasi kembali apakah fitur yang digunakan benar-benar memberikan manfaat bagi user.\nHasil dari proses perbaikan tersebut adalah desain yang menurut kami menjadi lebih baik dan lebih sesuai dengan kebutuhan user. Pada akhir kompetisi, tim kami memperoleh Juara 2 EISD Competition.\nOutcome tersebut dicatat sebagai hasil akhir kompetisi, bukan sebagai bukti bahwa satu perubahan tertentu secara langsung menyebabkan pencapaian tersebut.",
     "crumbs": [
       "Beranda",
       "Intra-Self Communication Journal"
@@ -1773,7 +1806,7 @@
     "href": "portfolio/week-02.html#analisis-komunikasi",
     "title": "Intra-Self Communication Journal",
     "section": "Analisis komunikasi",
-    "text": "Analisis komunikasi\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nGanti dengan analisis Anda.\n\n\nObjective & state\nGanti dengan analisis Anda.\n\n\nRepertoire & language\nGanti dengan analisis Anda.\n\n\nResponse & adaptation\nGanti dengan analisis Anda.\n\n\nAgreement/action\nGanti dengan analisis Anda.\n\n\nRelationship outcome\nGanti dengan analisis Anda.",
+    "text": "Analisis komunikasi\n\n\n\n\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nSaya berperan sebagai anggota tim yang mengevaluasi desain bersama teman satu kelompok. Reactive character yang muncul adalah “Perfectionist”, sedangkan desired character adalah “Reflective designer” yang mempertimbangkan kebutuhan user sebelum menentukan perubahan desain.\n\n\nObjective & state\nInitial state adalah merasa desain belum maksimal, dengan masalah yang terlihat pada user flow, UI consistency, dan relevansi beberapa fitur. Objective saya adalah membuat desain lebih rapi sekaligus lebih sesuai dengan kebutuhan user.\n\n\nRepertoire & language\nSaya menggunakan evaluasi desain, diskusi dengan teman satu kelompok, feedback mengenai fitur, serta AI sebagai alat bantu validasi dan berpikir. Fokus evaluasi berubah dari “bagaimana membuat desain lebih bagus” menjadi “apakah fitur dan alur ini sesuai dengan kebutuhan user”.\n\n\nResponse & adaptation\nSetelah melihat kekurangan desain, saya tidak hanya memperbaiki tampilan. Saya dan tim juga mengevaluasi fitur yang digunakan, menambahkan fitur yang relevan, dan mengurangi fitur yang tidak sesuai dengan user.\n\n\nAgreement/action\nInternal agreement saya adalah mengevaluasi desain berdasarkan kebutuhan user. Agreement tersebut diterjemahkan menjadi tindakan berupa perbaikan user flow, UI consistency, serta penyesuaian fitur.\n\n\nRelationship outcome\nDiskusi bersama teman satu kelompok menjadi bagian dari proses menentukan perubahan desain dan melakukan perbaikan bersama. Outcome kompetisi adalah tim memperoleh Juara 2 EISD Competition.",
     "crumbs": [
       "Beranda",
       "Intra-Self Communication Journal"
@@ -1784,7 +1817,7 @@
     "href": "portfolio/week-02.html#penggunaan-ai",
     "title": "Intra-Self Communication Journal",
     "section": "Penggunaan AI",
-    "text": "Penggunaan AI\nNyatakan Tidak menggunakan AI atau jelaskan:\n\nalat dan peran AI;\nprompt atau instruksi penting;\nbagian output yang digunakan, diubah, atau ditolak;\npemeriksaan accuracy, privacy, dan authority;\napa yang tetap Anda pelajari sebagai manusia.",
+    "text": "Penggunaan AI\nAI digunakan dalam proses validasi dan membantu proses berpikir selama pengembangan desain.\nPeran AI: - membantu memvalidasi ide dan keputusan desain; - membantu melihat alternatif atau sudut pandang lain; - membantu proses berpikir ketika mengevaluasi fitur dan kebutuhan user.\nAI tidak digunakan sebagai pengambil keputusan akhir. Masukan AI tetap perlu dipertimbangkan kembali berdasarkan konteks user dan tujuan desain.\nHuman review: keputusan akhir mengenai fitur yang ditambahkan, dipertahankan, atau dikurangi tetap dilakukan oleh saya dan teman satu kelompok.\nAccuracy dan authority: output AI tidak dianggap sebagai fakta atau keputusan desain yang otomatis benar. Kami tetap mengevaluasi apakah masukan tersebut relevan dengan kebutuhan user dan konteks kompetisi.\nPembelajaran utama tetap berasal dari proses mengevaluasi desain, berdiskusi dengan anggota tim, mempertimbangkan kebutuhan user, dan menentukan perubahan desain.",
     "crumbs": [
       "Beranda",
       "Intra-Self Communication Journal"
@@ -1795,7 +1828,7 @@
     "href": "portfolio/week-02.html#feedback-dan-tindak-lanjut",
     "title": "Intra-Self Communication Journal",
     "section": "Feedback dan tindak lanjut",
-    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.\nAdaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.\nNext practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.",
+    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Selama proses pengembangan, terdapat masukan untuk menambahkan fitur game, menambahkan fitur yang relevan, serta mengurangi fitur yang tidak sesuai dengan kebutuhan user.\nAdaptation/replay: Setelah menerima dan mengevaluasi masukan tersebut, saya dan teman satu kelompok tidak hanya menambahkan fitur. Kami juga meninjau kembali fitur yang sudah ada dan mengurangi fitur yang dianggap tidak sesuai dengan user. Kami juga memperbaiki user flow dan UI consistency agar desain menjadi lebih rapi dan terarah.\nNext practice: Pada proyek UI/UX berikutnya, saya akan meminta feedback lebih awal dan mengevaluasi setiap fitur berdasarkan kebutuhan user sebelum terlalu jauh mengembangkan desain, sehingga perbaikan tidak hanya dilakukan menjelang tahap akhir.",
     "crumbs": [
       "Beranda",
       "Intra-Self Communication Journal"
@@ -1806,7 +1839,7 @@
     "href": "portfolio/week-02.html#self-assessment",
     "title": "Intra-Self Communication Journal",
     "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n—\n—\n\n\nObjective & State\n—\n—\n\n\nRepertoire, Language & AI\n—\n—\n\n\nResponse & Adaptation\n—\n—\n\n\nAgreement, Action & Relationship\n—\n—\n\n\n\nTotal: — / 20\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
+    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor\nEvidence singkat\n\n\n\n\nPerson & Character\n3\nSaya dapat mengenali reaksi perfectionist ketika melihat desain belum maksimal dan mengubah pendekatan menjadi evaluasi yang lebih berorientasi pada user.\n\n\nObjective & State\n3\nSaya memiliki tujuan untuk memperbaiki desain, kemudian memperjelasnya menjadi perbaikan user flow, UI consistency, dan relevansi fitur terhadap kebutuhan user.\n\n\nRepertoire, Language & AI\n4\nSaya menggunakan evaluasi desain, diskusi tim, feedback, dan AI sebagai alat bantu validasi serta berpikir, dengan keputusan akhir tetap dilakukan oleh tim.\n\n\nResponse & Adaptation\n4\nSaya menggunakan hasil evaluasi dan feedback untuk mengubah desain, termasuk menambahkan fitur yang relevan dan mengurangi fitur yang tidak sesuai dengan user.\n\n\nAgreement, Action & Relationship\n3\nInternal agreement untuk berorientasi pada kebutuhan user diterjemahkan menjadi tindakan perbaikan desain bersama teman satu kelompok.\n\n\n\nTotal: 17/20 - Kompeten.\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
     "crumbs": [
       "Beranda",
       "Intra-Self Communication Journal"
@@ -1817,7 +1850,7 @@
     "href": "portfolio/index.html",
     "title": "Indeks Portfolio",
     "section": "",
-    "text": "Perbarui metadata di bagian atas setiap file week-XX.qmd. Nilai status yang disarankan: Belum dimulai, Draft, Siap dinilai, Perlu revisi, atau Tercapai.\n\n\n\n\n\n\nTipButuh contoh?\n\n\n\nLihat contoh portfolio lengkap untuk Minggu 1–15. Semua contoh menggunakan mahasiswa, person, percakapan, dan artefak fiktif. Gunakan sebagai acuan mutu dan struktur, bukan sebagai jawaban untuk disalin.\n\n\n\n\n\n\n\n\n   \n    \n    \n      Urut berdasar\n      Default\n      \n        Evidence\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nMinggu\n\n\n\nEvidence\n\n\n\nStatus\n\n\n\nSelf\n\n\n\nAssessor\n\n\n\n\n\n\n\n\n1\n\n\nCharacter Map\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n2\n\n\nIntra-Self Communication Journal\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n3\n\n\nRelationship Conversation\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n4\n\n\nFive-Language Translation Portfolio\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n5\n\n\nProfessional Discovery Interview\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n6\n\n\nTarget–Attention Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n7\n\n\nProblem–Solution Interest Pitch\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n8\n\n\nUTS Performance Evidence Package\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n9\n\n\nDesire-State Communication\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n10\n\n\nAction & Agreement Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n11\n\n\nMulti-Person Negotiation Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n12\n\n\nCommunity Communication Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n13\n\n\nPublic Contribution Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n14\n\n\nAI-Mediated Communication Design\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n15\n\n\nCapstone Performance Portfolio\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\nTidak ada yang cocok\n Kembali ke atas",
+    "text": "Perbarui metadata di bagian atas setiap file week-XX.qmd. Nilai status yang disarankan: Belum dimulai, Draft, Siap dinilai, Perlu revisi, atau Tercapai.\n\n\n\n\n\n\nTipButuh contoh?\n\n\n\nLihat contoh portfolio lengkap untuk Minggu 1–15. Semua contoh menggunakan mahasiswa, person, percakapan, dan artefak fiktif. Gunakan sebagai acuan mutu dan struktur, bukan sebagai jawaban untuk disalin.\n\n\n\n\n\n\n\n\n   \n    \n    \n      Urut berdasar\n      Default\n      \n        Evidence\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nMinggu\n\n\n\nEvidence\n\n\n\nStatus\n\n\n\nSelf\n\n\n\nAssessor\n\n\n\n\n\n\n\n\n1\n\n\nCharacter Map\n\n\nSiap dinilai\n\n\n—\n\n\n—\n\n\n\n\n\n\n2\n\n\nIntra-Self Communication Journal\n\n\nSiap dinilai\n\n\n—\n\n\n—\n\n\n\n\n\n\n3\n\n\nRelationship Conversation\n\n\nSiap dinilai\n\n\n—\n\n\n—\n\n\n\n\n\n\n4\n\n\nFive-Language Translation Portfolio\n\n\nSiap dinilai\n\n\n—\n\n\n—\n\n\n\n\n\n\n5\n\n\nProfessional Discovery Interview\n\n\nSiap dinilai\n\n\n—\n\n\n—\n\n\n\n\n\n\n6\n\n\nTarget–Attention Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n7\n\n\nProblem–Solution Interest Pitch\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n8\n\n\nUTS Performance Evidence Package\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n9\n\n\nDesire-State Communication\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n10\n\n\nAction & Agreement Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n11\n\n\nMulti-Person Negotiation Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n12\n\n\nCommunity Communication Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n13\n\n\nPublic Contribution Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n14\n\n\nAI-Mediated Communication Design\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n15\n\n\nCapstone Performance Portfolio\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\nTidak ada yang cocok\n Kembali ke atas",
     "crumbs": [
       "Beranda",
       "Indeks Portfolio"
@@ -3295,7 +3328,7 @@
     "href": "about.html",
     "title": "Profil Mahasiswa",
     "section": "",
-    "text": "Field\nIsi\n\n\n\n\nNama\nNama Mahasiswa\n\n\nNIM\nNIM\n\n\nProgram studi\nProgram Studi\n\n\nAngkatan\nAngkatan\n\n\nEmail\nnama@kampus.ac.id\n\n\nMata kuliah\nKIPP-2 — Komunikasi Inter Personal dan Publik\n\n\nDosen\nArmein Z. R. Langi\n\n\nSemester\nSemester / Tahun Akademik"
+    "text": "Field\nIsi\n\n\n\n\nNama\nJevon Cleverivello Aritonang\n\n\nNIM\n18225051\n\n\nProgram studi\nSistem Teknologi dan Informasi\n\n\nAngkatan\n25\n\n\nEmail\n18225051@std.stei.itb.ac.id\n\n\nMata kuliah\nKIPP-2 — Komunikasi Inter Personal dan Publik\n\n\nDosen\nArmein Z. R. Langi\n\n\nSemester\n3 / 2026"
   },
   {
     "objectID": "about.html#pernyataan-portfolio",
@@ -4401,7 +4434,7 @@
     "href": "index.html",
     "title": "Portfolio Pembelajaran",
     "section": "",
-    "text": "Nama Mahasiswa\n\n\nNIM · Program Studi · Angkatan\nPortfolio ini merekam perkembangan kompetensi pada mata kuliah Komunikasi Inter Personal dan Publik. Setiap klaim pencapaian harus terhubung pada evidence, feedback, refleksi, dan tindakan perbaikan."
+    "text": "Jevon Cleverivello Aritonang\n\n\n18225051 · Sistem Teknologi dan Informasi · 25\nPortfolio ini merekam perkembangan kompetensi pada mata kuliah Komunikasi Inter Personal dan Publik. Setiap klaim pencapaian harus terhubung pada evidence, feedback, refleksi, dan tindakan perbaikan."
   },
   {
     "objectID": "index.html#mulai-dari-sini",
@@ -4780,7 +4813,7 @@
     "href": "portfolio/week-01.html#evidence-wajib",
     "title": "Character Map",
     "section": "Evidence wajib",
-    "text": "Evidence wajib\n\nLima character dari sedikitnya tiga domain kehidupan.\nObjective, responsibility, repertoire, dan risiko tiap character.\nSatu contoh perubahan language ketika character berubah.\n\n\n\n\n\n\n\nTipLihat contoh pengisian\n\n\n\nBuka contoh fiktif Minggu 1 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.",
+    "text": "Evidence wajib\n\nLima character dari sedikitnya tiga domain kehidupan.\nObjective, responsibility, repertoire, dan risiko tiap character.\nSatu contoh perubahan language ketika character berubah.",
     "crumbs": [
       "Beranda",
       "Character Map"
@@ -4791,7 +4824,18 @@
     "href": "portfolio/week-01.html#konteks-performance",
     "title": "Character Map",
     "section": "Konteks performance",
-    "text": "Konteks performance\nTanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.\nPersons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.\nObjective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.",
+    "text": "Konteks performance\nTanggal dan setting: 7 September 2026, saat kuliah Arsitektur Komputer Ruang 7601. Bentuk kegiatan berupa percakapan langsung dengan teman setelah pembahasan materi bilangan biner dan heksadesimal.\nPersons dan relationship: Saya dan seorang teman dekat sebagai sesama mahasiswa. Tidak mencantumkan data pribadi lain karena tidak diperlukan untuk analisis.\nObjective dan initial state: Initial state adalah teman masih bingung mengenai cara mengonversi bilangan biner ke heksadesimal, terutama bagaimana menentukan nilai heksadesimal dari kelompok digit biner. Objective saya adalah membantu teman memahami cara konversinya sehingga tidak hanya mengetahui hasil akhirnya.",
+    "crumbs": [
+      "Beranda",
+      "Character Map"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-01.html#lima-character",
+    "href": "portfolio/week-01.html#lima-character",
+    "title": "Character Map",
+    "section": "Lima character",
+    "text": "Lima character\n\n\n\n\n\n\n\n\n\n\nDomain dan character\nPerson & relationship\nObjective & responsibility\nRepertoire & language\nRisiko dan latihan\n\n\n\n\nIntra-Self - Mahasiswa yang reflektif\nDiri sendiri\nMengevaluasi kesalahan dan menentukan perbaikan\nMenulis fakta, refleksi, membuat action plan\nTerlalu menyalahkan diri sendiri -&gt; Memisahkan fakta dan asumsi\n\n\nAcademic - anggota kelompok\nTeman satu kelompok\nMenyelesaikan tugas dan menyamakan pemahaman\nDiskusi, bertanya, konfirmasi\nTerlalu fokus pada hasil -&gt; pastikan semua anggota memahami pembagian tugas\n\n\nProfesional - Intern\nMentor dan rekan kerja\nMenyelesaikan pekerjaan dan mengomunikasikan progress kepada mentor\nBertanya, mencatat arahan, update progress\nTerlalu lama mencoba sendiri -&gt; komunikasikan kendala setelah mencoba\n\n\nOrganisasi - Rekan divisi/panitia\nRekan divisi/panitia\nMenyelesaikan tanggung jawab dan mencapai target tim\nDiskusi, koordinasi, follow-up\nTerlalu langsung -&gt; Jelaskan konteks sebelum meminta sesuatu\n\n\nCommunity\nTeman atau peserta yang belajar\nMembantu orang lain memahami materi\nAnalogi, contoh sederhana, tanya jawab\nTerlalu banyak menjelaskan -&gt; cek pemahaman sebelum lanjut",
     "crumbs": [
       "Beranda",
       "Character Map"
@@ -4802,7 +4846,51 @@
     "href": "portfolio/week-01.html#evidence",
     "title": "Character Map",
     "section": "Evidence",
-    "text": "Evidence\n\nTambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.",
+    "text": "Evidence",
+    "crumbs": [
+      "Beranda",
+      "Character Map"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-01.html#konteks",
+    "href": "portfolio/week-01.html#konteks",
+    "title": "Character Map",
+    "section": "Konteks",
+    "text": "Konteks\nSaat kuliah Arsitektur Komputer, dosen menjelaskan materi mengenai bilangan biner dan konversinya ke heksadesimal. Teman dekat saya masih bingung mengapa hasil perhitungannya bisa seperti itu dan bagaimana cara menghitungnya ke heksadesimal. Ia kemudian meminta saya menjelaskan kembali materi tersebut.",
+    "crumbs": [
+      "Beranda",
+      "Character Map"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-01.html#objective-dan-responsibility",
+    "href": "portfolio/week-01.html#objective-dan-responsibility",
+    "title": "Character Map",
+    "section": "Objective dan responsibility",
+    "text": "Objective dan responsibility\nObjective saya adalah membantu teman memahami cara melakukan konversi biner ke heksadesimal, bukan hanya memberikan hasil akhirnya.\nDalam character sebagai teman yang membantu, responsibility saya adalah mengidentifikasi bagian yang belum dipahami, menjelaskan bagian tersebut dengan cara yang dapat diikuti, dan memberikan kesempatan kepada teman untuk mengonfirmasi pemahamannya.\nCatatan: Bagian berikut merupakan rekonstruksi/paraphrase dari percakapan yang telah dilakukan, bukan transcript verbatim. Dialog ditulis kembali untuk merepresentasikan inti pertanyaan, respons, dan proses konfirmasi masalah.\n\nNathan: “Jev, minta tolong jelasin dong kenapa angkanya gitu?” Saya: “Bagian mana yang masih bingung?” Nathan: “Gw masih bingung cara ngitung dari biner ke hex deh.” Saya: “Coba, gampangnya gini setiap 4 angka itu mewakili bilangan hex dan lu bisa liat dari tabelnya..” Nathan: “Oh, jadi cara carinya gitu ya?” Saya: “Iya, sebenernya masih mudah kalau menghitung seperti itu, karena juga kita hanya mengambil sebagian untuk tahu hex nya apa.”",
+    "crumbs": [
+      "Beranda",
+      "Character Map"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-01.html#response-dan-adaptation",
+    "href": "portfolio/week-01.html#response-dan-adaptation",
+    "title": "Character Map",
+    "section": "Response dan adaptation",
+    "text": "Response dan adaptation\nSignal dari teman: “Gw masih bingung cara ngitung dari biner ke hex deh.”\nInterpretasi saya: Saya memahami bahwa teman belum membutuhkan hasil akhir saja, tetapi masih belum memahami proses menentukan nilai heksadesimal dari bilangan biner.\nAdaptation: Saya tidak langsung menjelaskan seluruh materi. Saya terlebih dahulu menanyakan bagian yang belum dipahami. Setelah mengetahui bahwa kesulitannya berada pada proses konversi, saya menggunakan penjelasan yang lebih sederhana dengan mengelompokkan empat digit biner dan menggunakan tabel konversi heksadesimal.\nResponse berikutnya: “Oh, jadi cara carinya gitu ya?” Respons tersebut menjadi evidence bahwa teman dapat mengikuti metode yang baru dijelaskan.",
+    "crumbs": [
+      "Beranda",
+      "Character Map"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-01.html#perubahan-language",
+    "href": "portfolio/week-01.html#perubahan-language",
+    "title": "Character Map",
+    "section": "Perubahan language",
+    "text": "Perubahan language\nCharacter 1 — teman yang membantu teman dekat Dalam character sebagai teman yang membantu teman dekat, saya menggunakan bahasa informal dan sederhana: &gt; “Setiap 4 angka biner itu bisa dikelompokkan, terus lihat nilainya di tabel hex.”\nCharacter 2 — mahasiswa dalam konteks akademik Jika saya berada dalam character sebagai mahasiswa yang menjelaskan materi dalam konteks akademik yang lebih formal, saya akan menggunakan language yang lebih formal dan teknis: &gt; “Bilangan biner dapat dikelompokkan menjadi empat bit. Setiap kelompok empat bit kemudian dipetakan ke satu digit heksadesimal berdasarkan nilai konversinya.”\nCore information tetap sama, tetapi language dan repertoire disesuaikan agar teman lebih mudah memahami teori.\nElemen | Character 1: Teman yang membantu | Character 2: Mahasiswa dalam konteks akademik |\n|Core information | Konversi biner ke heksadesimal | Konversi biner ke heksadesimal | | Language | Informal dan sederhana | Lebih formal dan teknis | |Istilah | “4 angka”, “hex”, “lihat tabel” | “empat bit”, “digit heksadesimal”, “dipetakan” | | Relationship |Teman dekat | Konteks akademik |",
     "crumbs": [
       "Beranda",
       "Character Map"
@@ -4813,7 +4901,7 @@
     "href": "portfolio/week-01.html#analisis-komunikasi",
     "title": "Character Map",
     "section": "Analisis komunikasi",
-    "text": "Analisis komunikasi\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nGanti dengan analisis Anda.\n\n\nObjective & state\nGanti dengan analisis Anda.\n\n\nRepertoire & language\nGanti dengan analisis Anda.\n\n\nResponse & adaptation\nGanti dengan analisis Anda.\n\n\nAgreement/action\nGanti dengan analisis Anda.\n\n\nRelationship outcome\nGanti dengan analisis Anda.",
+    "text": "Analisis komunikasi\n\n\n\n\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nSaya berperan sebagai teman yang membantu memahami materi, bukan sebagai pengajar formal.\n\n\nObjective & state\nInitial state adalah teman masih bingung dengan konversi biner ke heksadesimal. Objective saya adalah membantu teman memahami konsep dan cara perhitungannya.\n\n\nRepertoire & language\nSaya menggunakan bahasa sederhana dan menjelaskan aturan pengelompokan empat digit biner serta tabel konversi heksadesimal daripada menggunakan terlalu banyak istilah teknis.\n\n\nResponse & adaptation\nSaya terlebih dahulu menanyakan bagian yang belum dipahami, kemudian menyesuaikan penjelasan berdasarkan jawaban teman.\n\n\nAgreement/action\nSaya memastikan bagian yang dijelaskan sesuai dengan kesulitan teman sebelum melanjutkan penjelasan.\n\n\nRelationship outcome\nTeman memberikan respons bahwa cara tersebut lebih mudah dipahami, sehingga tujuan utama percakapan untuk membantu memahami konversi biner ke heksadesimal tercapai.",
     "crumbs": [
       "Beranda",
       "Character Map"
@@ -4824,7 +4912,7 @@
     "href": "portfolio/week-01.html#penggunaan-ai",
     "title": "Character Map",
     "section": "Penggunaan AI",
-    "text": "Penggunaan AI\nNyatakan Tidak menggunakan AI atau jelaskan:\n\nalat dan peran AI;\nprompt atau instruksi penting;\nbagian output yang digunakan, diubah, atau ditolak;\npemeriksaan accuracy, privacy, dan authority;\napa yang tetap Anda pelajari sebagai manusia.",
+    "text": "Penggunaan AI\nTidak menggunakan AI.\nSaya menjelaskan materi berdasarkan pemahaman saya sendiri. AI tidak digunakan sebagai sumber penjelasan, pengambil keputusan, atau alat untuk menentukan respons dalam percakapan.\nPembelajaran utama saya berasal dari proses memahami materi, mengidentifikasi bagian yang belum dipahami teman, dan menyesuaikan cara menjelaskan.",
     "crumbs": [
       "Beranda",
       "Character Map"
@@ -4835,7 +4923,7 @@
     "href": "portfolio/week-01.html#feedback-dan-tindak-lanjut",
     "title": "Character Map",
     "section": "Feedback dan tindak lanjut",
-    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.\nAdaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.\nNext practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.",
+    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Teman merespons, “Oh, jadi cara carinya gitu ya?”, yang menunjukkan bahwa penjelasan tersebut membantu memperjelas cara konversi yang sebelumnya membingungkan.\nAdaptation/replay: Saya tidak langsung memberikan penjelasan panjang. Saya terlebih dahulu menanyakan bagian yang membingungkan, kemudian menggunakan pendekatan yang lebih sederhana berdasarkan jawaban teman.\nNext practice: Saya akan membiasakan diri menanyakan bagian yang belum dipahami sebelum memberikan penjelasan agar repertoire dan language yang digunakan lebih sesuai dengan kebutuhan lawan bicara.",
     "crumbs": [
       "Beranda",
       "Character Map"
@@ -4846,7 +4934,7 @@
     "href": "portfolio/week-01.html#self-assessment",
     "title": "Character Map",
     "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n—\n—\n\n\nObjective & State\n—\n—\n\n\nRepertoire, Language & AI\n—\n—\n\n\nResponse & Adaptation\n—\n—\n\n\nAgreement, Action & Relationship\n—\n—\n\n\n\nTotal: — / 20\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
+    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor\nEvidence singkat\n\n\n\n\nPerson & Character\n4\nSaya dapat menyesuaikan peran sebagai teman dengan situasi ketika membantu menjelaskan materi kepada orang lain\n\n\nObjective & State\n3\nSaya memiliki tujuan yang jelas, yaitu memastikan teman memahami konsep sebelum melanjutkan pembahasan\n\n\nRepertoire, Language & AI\n4\nSaya mengubah cara menjelaskan dari istilah teknis menjadi contoh yang lebih sederhana ketika melihat teman masih mengalami kesulitan\n\n\nResponse & Adaptation\n4\nSaya menggunakan respons teman sebagai dasar untuk menentukan bagian mana yang perlu dijelaskan kembali dengan pendekatan yang berbeda\n\n\nAgreement, Action & Relationship\n3\nSaya tidak hanya berfokus pada penyampaian materi, tetapi juga memastikan teman dapat mengikuti pembahasan dan tetap nyaman untuk bertanya\n\n\n\nTotal: 18/20 - Kompeten. Masih perlu latihan agar dapat lebih konsisten menyesuaikan repertoire dan language berdasarkan kebutuhan lawan bicara.\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
     "crumbs": [
       "Beranda",
       "Character Map"
@@ -4879,7 +4967,7 @@
     "href": "portfolio/week-03.html#evidence-wajib",
     "title": "Relationship Conversation",
     "section": "Evidence wajib",
-    "text": "Evidence wajib\n\nTranscript atau catatan percakapan.\nEvidence listening dan response.\nAnalisis relationship state sebelum dan sesudah.\n\n\n\n\n\n\n\nTipLihat contoh pengisian\n\n\n\nBuka contoh fiktif Minggu 3 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.",
+    "text": "Evidence wajib\n\nTranscript atau catatan percakapan.\nEvidence listening dan response.\nAnalisis relationship state sebelum dan sesudah.",
     "crumbs": [
       "Beranda",
       "Relationship Conversation"
@@ -4890,18 +4978,29 @@
     "href": "portfolio/week-03.html#konteks-performance",
     "title": "Relationship Conversation",
     "section": "Konteks performance",
-    "text": "Konteks performance\nTanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.\nPersons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.\nObjective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.",
+    "text": "Konteks performance\nTanggal dan setting: Percakapan terjadi setelah pembahasan materi Matematika Diskrit di perkuliahan. Untuk waktunya, kami pasti selalu berdiskusi setelah kelas matematika Diskrit. Percakapan dilakukan secara langsung dengan teman kuliah setelah materi disampaikan.\nPersons dan relationship: Saya dan seorang teman kuliah yang cukup dekat dan sering berdiskusi mengenai materi perkuliahan. Teman saya merasa nyaman untuk bertanya ketika ada konsep yang belum dipahami.\nObjective dan initial state: Objective saya adalah membantu teman memahami konsep yang baru saja disampaikan dengan cara yang lebih mudah dipahami.\nInitial state teman adalah masih kurang memahami salah satu konsep dari materi Matematika Diskrit. Initial state relationship adalah komunikasi sudah cukup terbuka sehingga teman tersebut bersedia bertanya dan meminta penjelasan kepada saya.",
     "crumbs": [
       "Beranda",
       "Relationship Conversation"
     ]
   },
   {
-    "objectID": "portfolio/week-03.html#evidence",
-    "href": "portfolio/week-03.html#evidence",
+    "objectID": "portfolio/week-03.html#potongan-transcript",
+    "href": "portfolio/week-03.html#potongan-transcript",
     "title": "Relationship Conversation",
-    "section": "Evidence",
-    "text": "Evidence\n\nTambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.",
+    "section": "Potongan transcript",
+    "text": "Potongan transcript\nCatatan: Bagian berikut merupakan rekonstruksi/paraphrase dari percakapan yang telah dilakukan, bukan transcript verbatim. Dialog ditulis kembali untuk merepresentasikan inti pertanyaan, respons, dan proses konfirmasi masalah.\n\nTio: “Ini konsep yang gerbang logikanya gimana deh? Masih bingung bedain AND dan OR” Saya: “Kalau AND itu ibaratnya semua input harus 1 supaya outputnya 1 juga, sedangkan kalau OR cukup salah satu inputnya 1.” Tio: “Oh, gitu&gt; Jadi kalau AND misalnya A = 1 dan B = 1 hasilnya 1 gitu?” Saya: “Iya, kayak gitu. Kalau liat dari tabelnya lebih gampang kok.” Teman: “Oh gitu ya, sip deh thanks ya.”\n\nPercakapan tersebut menunjukkan bahwa saya tidak langsung mengulang materi dengan cara yang sama, tetapi menggunakan respons teman untuk menyesuaikan penjelasan.",
+    "crumbs": [
+      "Beranda",
+      "Relationship Conversation"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-03.html#analisis-listening-boundary-dan-repair",
+    "href": "portfolio/week-03.html#analisis-listening-boundary-dan-repair",
+    "title": "Relationship Conversation",
+    "section": "Analisis listening, boundary, dan repair",
+    "text": "Analisis listening, boundary, dan repair",
     "crumbs": [
       "Beranda",
       "Relationship Conversation"
@@ -4912,7 +5011,7 @@
     "href": "portfolio/week-03.html#analisis-komunikasi",
     "title": "Relationship Conversation",
     "section": "Analisis komunikasi",
-    "text": "Analisis komunikasi\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nGanti dengan analisis Anda.\n\n\nObjective & state\nGanti dengan analisis Anda.\n\n\nRepertoire & language\nGanti dengan analisis Anda.\n\n\nResponse & adaptation\nGanti dengan analisis Anda.\n\n\nAgreement/action\nGanti dengan analisis Anda.\n\n\nRelationship outcome\nGanti dengan analisis Anda.",
+    "text": "Analisis komunikasi\n\n\n\n\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nSaya berperan sebagai teman kuliah yang membantu Tio memahami materi, bukan sebagai pengajar formal. Tio berada dalam kondisi masih bingung membedakan konsep AND dan OR, sehingga saya menyesuaikan peran saya sebagai teman yang membantu menjelaskan.\n\n\nObjective & state\nInitial state Tio terlihat dari pernyataannya bahwa ia masih bingung membedakan AND dan OR. Objective saya adalah membantu Tio memahami perbedaan kedua gerbang logika tersebut dengan penjelasan yang lebih mudah diikuti.\n\n\nRepertoire & language\nSaya menggunakan bahasa sederhana untuk menjelaskan aturan dasar AND dan OR, kemudian memberikan contoh A = 1 dan B = 1. Saya juga mengarahkan Tio untuk melihat tabel logika agar pola input dan output lebih mudah dipahami.\n\n\nResponse & adaptation\nSaya menggunakan informasi bahwa Tio masih bingung untuk menyesuaikan cara menjelaskan. Ketika Tio mengajukan pertanyaan lanjutan mengenai A = 1 dan B = 1 pada AND, saya mengonfirmasi pemahamannya dan menjelaskan bahwa tabel logika dapat membantu melihat konsep tersebut.\n\n\nAgreement/action\nTidak terdapat formal agreement karena percakapan bukan pembagian tugas atau pengambilan keputusan. Action yang terlihat adalah Tio menyampaikan kebingungannya, saya memberikan penjelasan, Tio mengajukan pertanyaan untuk mengonfirmasi pemahaman, dan saya memberikan konfirmasi.\n\n\nRelationship outcome\nPercakapan tetap terbuka dan nyaman. Tio dapat menyampaikan kebingungannya, mengajukan pertanyaan lanjutan, dan mengakhiri percakapan dengan respons “Oh gitu ya, sip deh. Thanks ya.” Tidak terdapat konflik atau ketegangan dalam percakapan.",
     "crumbs": [
       "Beranda",
       "Relationship Conversation"
@@ -4923,7 +5022,7 @@
     "href": "portfolio/week-03.html#penggunaan-ai",
     "title": "Relationship Conversation",
     "section": "Penggunaan AI",
-    "text": "Penggunaan AI\nNyatakan Tidak menggunakan AI atau jelaskan:\n\nalat dan peran AI;\nprompt atau instruksi penting;\nbagian output yang digunakan, diubah, atau ditolak;\npemeriksaan accuracy, privacy, dan authority;\napa yang tetap Anda pelajari sebagai manusia.",
+    "text": "Penggunaan AI\nTidak menggunakan AI.\nPenjelasan dilakukan secara langsung berdasarkan materi yang sedang dipelajari dan respons Tio selama percakapan.\nAI tidak digunakan sebagai sumber penjelasan, pengambil keputusan, maupun pengganti proses listening dalam percakapan.\nKarena AI tidak digunakan, tidak terdapat prompt, output AI, maupun keputusan yang perlu diperiksa atau diubah. Accuracy penjelasan tetap didasarkan pada pemahaman saya terhadap materi gerbang logika dan konteks percakapan. Privacy juga tetap dijaga dengan tidak menggunakan informasi pribadi Tio di luar konteks yang diperlukan untuk evidence. Authority berasal dari pemahaman terhadap materi perkuliahan, bukan dari output AI.\nHal yang tetap saya pelajari sebagai manusia adalah bagaimana mendengarkan bagian yang membuat teman bingung, memilih cara menjelaskan yang lebih sederhana, merespons pertanyaan lanjutan, dan mengecek pemahaman melalui respons lawan bicara.",
     "crumbs": [
       "Beranda",
       "Relationship Conversation"
@@ -4934,7 +5033,7 @@
     "href": "portfolio/week-03.html#feedback-dan-tindak-lanjut",
     "title": "Relationship Conversation",
     "section": "Feedback dan tindak lanjut",
-    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.\nAdaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.\nNext practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.",
+    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Tio mengajukan pertanyaan, “Oh, gitu? Jadi kalau AND misalnya A = 1 dan B = 1, hasilnya 1 gitu?” Setelah saya mengonfirmasi, Tio memberikan respons, “Oh gitu ya, sip deh. Thanks ya.” Respons tersebut menjadi evidence bahwa Tio memberikan konfirmasi setelah penjelasan diberikan.\nAdaptation/replay: Setelah Tio menyampaikan bahwa ia masih bingung membedakan AND dan OR, saya menjelaskan dengan aturan input yang lebih sederhana. Ketika Tio memberikan contoh A = 1 dan B = 1 untuk memastikan pemahamannya, saya mengonfirmasi contoh tersebut dan mengarahkan penggunaan tabel logika. Setelah itu, Tio memberikan respons positif.\nNext practice: Pada percakapan berikutnya ketika membantu seseorang memahami materi, saya akan terlebih dahulu menanyakan bagian mana yang belum dipahami, kemudian memberikan penjelasan yang sesuai dan mengecek pemahaman melalui pertanyaan atau contoh dari lawan bicara.",
     "crumbs": [
       "Beranda",
       "Relationship Conversation"
@@ -4945,7 +5044,7 @@
     "href": "portfolio/week-03.html#self-assessment",
     "title": "Relationship Conversation",
     "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n—\n—\n\n\nObjective & State\n—\n—\n\n\nRepertoire, Language & AI\n—\n—\n\n\nResponse & Adaptation\n—\n—\n\n\nAgreement, Action & Relationship\n—\n—\n\n\n\nTotal: — / 20\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
+    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n3\nSaya menyesuaikan peran sebagai teman yang membantu Tio memahami materi berdasarkan kondisi Tio yang masih bingung.\n\n\nObjective & State\n3\nInitial state Tio terlihat dari pernyataannya bahwa ia masih bingung membedakan AND dan OR. Objective saya adalah membantu menjelaskan perbedaan tersebut.\n\n\nRepertoire, Language & AI\n3\nSaya menggunakan bahasa sederhana, contoh A = 1 dan B = 1, serta tabel logika sebagai cara membantu menjelaskan konsep. AI tidak digunakan.\n\n\nResponse & Adaptation\n3\nSaya menyesuaikan cara menjelaskan berdasarkan kebingungan Tio dan merespons pertanyaan lanjutannya untuk mengonfirmasi pemahaman.\n\n\nAgreement, Action & Relationship\n3\nTidak terdapat formal agreement, tetapi terdapat action yang jelas: Tio menyampaikan kebingungan, saya menjelaskan, Tio mengonfirmasi pemahaman, dan percakapan berakhir dengan respons positif.\n\n\n\nTotal: 15 / 20\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
     "crumbs": [
       "Beranda",
       "Relationship Conversation"
@@ -4978,7 +5077,7 @@
     "href": "portfolio/week-05.html#evidence-wajib",
     "title": "Professional Discovery Interview",
     "section": "Evidence wajib",
-    "text": "Evidence wajib\n\nInitial assumption dan pertanyaan discovery.\nTranscript/paraphrase serta problem impact dan constraint.\nShared problem statement yang dikonfirmasi partner.\n\n\n\n\n\n\n\nTipLihat contoh pengisian\n\n\n\nBuka contoh fiktif Minggu 5 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.",
+    "text": "Evidence wajib\n\nInitial assumption dan pertanyaan discovery.\nTranscript/paraphrase serta problem impact dan constraint.\nShared problem statement yang dikonfirmasi partner.",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
@@ -4989,7 +5088,62 @@
     "href": "portfolio/week-05.html#konteks-performance",
     "title": "Professional Discovery Interview",
     "section": "Konteks performance",
-    "text": "Konteks performance\nTanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.\nPersons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.\nObjective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.",
+    "text": "Konteks performance\nTanggal dan setting: Percakapan dilakukan dalam konteks kegiatan magang ketika saya berdiskusi dengan teman sesama intern yang sedang mengalami kesulitan menggunakan Docker untuk mengerjakan tugas terkait data pipeline. Tanggal spesifik percakapan tidak dicatat dalam evidence yang tersedia.\nPersons dan relationship: Saya berbicara dengan teman sesama intern. Kami berada dalam konteks yang sama sebagai peserta magang dan sama-sama mengerjakan tugas yang berkaitan dengan teknis/data. Hubungan kami adalah sebagai rekan sesama intern sehingga percakapan berlangsung secara informal dan kolaboratif.\nObjective dan initial state: Objective saya adalah memahami terlebih dahulu sumber kesulitan teman sebelum memberikan solusi.\nInitial assumption saya adalah teman belum memahami alur penggunaan Docker. Namun, saya belum mengetahui apakah masalahnya berada pada Docker secara keseluruhan, pengalaman sebelumnya, atau bagian tertentu dari proses penggunaannya.",
+    "crumbs": [
+      "Beranda",
+      "Professional Discovery Interview"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-05.html#initial-assumption-dan-discovery",
+    "href": "portfolio/week-05.html#initial-assumption-dan-discovery",
+    "title": "Professional Discovery Interview",
+    "section": "Initial assumption dan discovery",
+    "text": "Initial assumption dan discovery\nInitial assumption: Teman belum memahami alur penggunaan Docker.\nUntuk memeriksa asumsi tersebut, saya mengajukan beberapa pertanyaan discovery:\n\nPernah menggunakan Docker sebelumnya?\nSudah pernah melihat tutorial Docker?\nBagian mana yang belum kamu pahami?\nMasalahnya berada di bagian mana?\n\nPertanyaan tersebut digunakan untuk mengetahui pengalaman sebelumnya, usaha yang sudah dilakukan, dan bagian spesifik yang menjadi hambatan sebelum saya memberikan solusi.",
+    "crumbs": [
+      "Beranda",
+      "Professional Discovery Interview"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-05.html#potongan-transcript",
+    "href": "portfolio/week-05.html#potongan-transcript",
+    "title": "Professional Discovery Interview",
+    "section": "Potongan transcript",
+    "text": "Potongan transcript\nCatatan: Bagian berikut merupakan rekonstruksi/paraphrase dari percakapan yang telah dilakukan, bukan transcript verbatim. Dialog ditulis kembali untuk merepresentasikan inti pertanyaan, respons, dan proses konfirmasi masalah.\n\n. Teman sesama intern: “Jev, aku masih bingung deh cara pakai docker gimana.” Saya: “Udah pernah pakai docker kah sebelumnya?” Teman sesama intern: “Udah sih tapi masih bingung” Saya: “Udah pernah liat tutorialnya di youtube?” Teman sesama intern: “Sudah, tapi masih bingung.” Saya: “Bagian apa yang masih bingung?” Teman sesama intern: “Bagian cara menyambungkan docker ke dalam VS codenya.” Saya: “Oh, jadi kamu belum tahu cara mengintegrasikan docker ke VS code ya?” Teman sesama intern: “Yes.”",
+    "crumbs": [
+      "Beranda",
+      "Professional Discovery Interview"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-05.html#pembaruan-pembacaan",
+    "href": "portfolio/week-05.html#pembaruan-pembacaan",
+    "title": "Professional Discovery Interview",
+    "section": "Pembaruan pembacaan",
+    "text": "Pembaruan pembacaan\nInitial assumption saya adalah teman belum memahami alur penggunaan Docker secara umum.\nSetelah melakukan discovery, saya menemukan bahwa teman sebenarnya sudah pernah menggunakan Docker dan sudah pernah melihat tutorial. Namun, ia masih mengalami kesulitan pada bagian yang lebih spesifik, yaitu cara mengintegrasikan Docker dengan VS Code.\nDengan demikian, saya memperbarui pembacaan masalah dari “belum memahami cara menggunakan Docker” menjadi kesulitan dalam menghubungkan atau mengintegrasikan Docker dengan VS Code untuk kebutuhan tugas intern.",
+    "crumbs": [
+      "Beranda",
+      "Professional Discovery Interview"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-05.html#shared-problem-statement",
+    "href": "portfolio/week-05.html#shared-problem-statement",
+    "title": "Professional Discovery Interview",
+    "section": "Shared problem statement",
+    "text": "Shared problem statement\nShared problem statement yang dikonfirmasi teman: Teman saya sudah pernah menggunakan Docker dan melihat tutorial, tetapi masih kesulitan mengintegrasikan Docker dengan VS Code untuk mengerjakan tugas intern.\nTeman mengonfirmasi pembacaan tersebut setelah saya melakukan paraphrase dengan pertanyaan, “Oh, jadi kamu belum tahu cara mengintegrasikan Docker ke VS Code ya?” dan memberikan respons “Yes.”",
+    "crumbs": [
+      "Beranda",
+      "Professional Discovery Interview"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-05.html#problem-impact-dan-constraint",
+    "href": "portfolio/week-05.html#problem-impact-dan-constraint",
+    "title": "Professional Discovery Interview",
+    "section": "Problem impact dan constraint",
+    "text": "Problem impact dan constraint\nProblem impact: Kesulitan mengintegrasikan Docker dengan VS Code membuat teman belum dapat menggunakan workflow Docker di VS Code dengan lancar untuk kebutuhan tugas intern.\nConstraint: Teman sudah pernah menggunakan Docker dan sudah pernah melihat tutorial di YouTube, sehingga masalahnya bukan karena belum pernah mendapatkan informasi mengenai Docker. Hambatannya lebih spesifik pada proses integrasi Docker dengan VS Code.",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
@@ -5000,7 +5154,7 @@
     "href": "portfolio/week-05.html#evidence",
     "title": "Professional Discovery Interview",
     "section": "Evidence",
-    "text": "Evidence\n\nTambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.",
+    "text": "Evidence\n\nEvidence utama berupa catatan retrospektif mengenai percakapan, rekonstruksi/paraphrase dialog, serta tindakan setelah masalah berhasil dipersempit.\nKontribusi saya dalam discovery adalah: memulai dengan pertanyaan mengenai pengalaman teman menggunakan Docker, menanyakan apakah teman sudah pernah melihat tutorial, menggali bagian spesifik yang masih membingungkan, melakukan paraphrase terhadap masalah, meminta konfirmasi sebelum menyimpulkan shared problem statement.\nDiscovery menunjukkan bahwa initial assumption saya terlalu umum. Teman ternyata sudah pernah menggunakan Docker dan melihat tutorial, tetapi masih mengalami kesulitan pada integrasi Docker dengan VS Code.\nSetelah masalah menjadi lebih spesifik, saya menggunakan bantuan AI untuk membantu menjelaskan cara mengintegrasikan Docker dengan VS Code. Saya tetap menyesuaikan langkah yang diberikan dengan kebutuhan dan kondisi teman.\nEvidence utama berasal dari catatan retrospektif dan hasil tindakan setelah percakapan. Tidak terdapat recording atau transcript verbatim.",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
@@ -5011,7 +5165,7 @@
     "href": "portfolio/week-05.html#analisis-komunikasi",
     "title": "Professional Discovery Interview",
     "section": "Analisis komunikasi",
-    "text": "Analisis komunikasi\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nGanti dengan analisis Anda.\n\n\nObjective & state\nGanti dengan analisis Anda.\n\n\nRepertoire & language\nGanti dengan analisis Anda.\n\n\nResponse & adaptation\nGanti dengan analisis Anda.\n\n\nAgreement/action\nGanti dengan analisis Anda.\n\n\nRelationship outcome\nGanti dengan analisis Anda.",
+    "text": "Analisis komunikasi\n\n\n\n\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & Character\nSaya berinteraksi dengan teman sesama intern dalam konteks pekerjaan/tugas teknis. Saya tidak langsung menganggap teman tidak memahami Docker secara keseluruhan, tetapi menggali pengalaman sebelumnya dan bagian yang spesifik menjadi hambatan.\n\n\nObjective & State\nObjective saya adalah memahami masalah sebelum memberikan solusi. Initial assumption saya adalah teman belum memahami cara menggunakan Docker, tetapi discovery menunjukkan bahwa ia sudah pernah menggunakan Docker dan melihat tutorial. Masalah kemudian dipersempit menjadi integrasi Docker dengan VS Code.\n\n\nRepertoire & Language\nSaya menggunakan pertanyaan sederhana dan bertahap: menanyakan pengalaman, tutorial yang sudah dilihat, lalu bagian yang masih membingungkan. Saya juga menggunakan paraphrase untuk memastikan pemahaman saya terhadap masalah.\n\n\nResponse & Adaptation\nRespons teman bahwa ia sudah pernah menggunakan Docker dan melihat tutorial membuat saya tidak berhenti pada initial assumption. Saya melanjutkan dengan pertanyaan yang lebih spesifik sampai menemukan bahwa hambatannya berada pada integrasi Docker dengan VS Code.\n\n\nAgreement & Action\nSetelah saya melakukan paraphrase mengenai integrasi Docker dengan VS Code, teman memberikan konfirmasi “Yes”. Setelah masalah dikonfirmasi, saya melanjutkan ke tahap pemberian bantuan teknis.\n\n\nRelationship Outcome\nPercakapan berlangsung secara informal dan kolaboratif sebagai sesama intern. Teman dapat menyampaikan bagian yang masih membingungkan, sementara saya memberi ruang untuk menggali masalah sebelum memberikan solusi.",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
@@ -5022,7 +5176,7 @@
     "href": "portfolio/week-05.html#penggunaan-ai",
     "title": "Professional Discovery Interview",
     "section": "Penggunaan AI",
-    "text": "Penggunaan AI\nNyatakan Tidak menggunakan AI atau jelaskan:\n\nalat dan peran AI;\nprompt atau instruksi penting;\nbagian output yang digunakan, diubah, atau ditolak;\npemeriksaan accuracy, privacy, dan authority;\napa yang tetap Anda pelajari sebagai manusia.",
+    "text": "Penggunaan AI\nAI digunakan sebagai alat bantu setelah proses discovery, bukan sebagai pengganti proses memahami masalah.\nPeran AI adalah membantu menjelaskan langkah integrasi Docker dengan VS Code setelah masalah sudah dipersempit melalui percakapan.\nSaya tetap melakukan human review terhadap penjelasan AI dan menyesuaikan langkah yang diberikan dengan kebutuhan tugas dan kondisi teman.\nAI tidak digunakan untuk menentukan masalah sejak awal. Masalah terlebih dahulu ditemukan melalui pertanyaan dan konfirmasi dengan teman.\nAccuracy diperiksa berdasarkan pemahaman saya terhadap Docker, VS Code, dan hasil ketika langkah tersebut diterapkan. Privacy dijaga dengan tidak memasukkan data pribadi yang tidak diperlukan ke dalam prompt. Authority tetap berasal dari pemahaman teknis, materi yang dipelajari, dan konteks pekerjaan/magang, bukan semata-mata dari output AI.",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
@@ -5033,7 +5187,7 @@
     "href": "portfolio/week-05.html#feedback-dan-tindak-lanjut",
     "title": "Professional Discovery Interview",
     "section": "Feedback dan tindak lanjut",
-    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.\nAdaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.\nNext practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.",
+    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Teman menyampaikan bahwa ia sudah pernah menggunakan Docker dan melihat tutorial di YouTube, tetapi masih bingung pada bagian integrasi Docker dengan VS Code. Setelah saya melakukan paraphrase, teman memberikan konfirmasi “Yes.”\nAdaptation/replay: Saya memperbarui initial assumption setelah mendapatkan informasi baru dari teman. Awalnya saya mengira masalahnya adalah penggunaan Docker secara umum, tetapi setelah discovery saya mempersempit masalah menjadi integrasi Docker dengan VS Code. Setelah masalah dikonfirmasi, saya menggunakan AI untuk membantu menjelaskan solusi yang relevan.\nNext practice: Pada discovery berikutnya, saya akan mempertahankan pola general question → specific question → paraphrase → confirmation agar initial assumption dapat diuji sebelum saya memberikan solusi.",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
@@ -5044,7 +5198,7 @@
     "href": "portfolio/week-05.html#self-assessment",
     "title": "Professional Discovery Interview",
     "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n—\n—\n\n\nObjective & State\n—\n—\n\n\nRepertoire, Language & AI\n—\n—\n\n\nResponse & Adaptation\n—\n—\n\n\nAgreement, Action & Relationship\n—\n—\n\n\n\nTotal: — / 20\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
+    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n3\nSaya memahami konteks teman sebagai sesama intern dan menggali pengalaman sebelumnya sebelum memberikan solusi.\n\n\nObjective & State\n3\nSaya memiliki initial assumption, kemudian memperbarui pembacaan setelah mengetahui bahwa masalah spesifiknya adalah integrasi Docker dengan VS Code.\n\n\nRepertoire, Language & AI\n3\nSaya menggunakan pertanyaan bertahap, paraphrase, dan AI sebagai alat bantu setelah discovery.\n\n\nResponse & Adaptation\n4\nSaya tidak berhenti pada initial assumption dan menggunakan respons teman untuk mempersempit masalah dari penggunaan Docker secara umum menjadi integrasi Docker dengan VS Code.\n\n\nAgreement, Action & Relationship\n3\nProblem dikonfirmasi melalui paraphrase dan respons “Yes”, kemudian dilanjutkan dengan bantuan teknis dalam hubungan yang kolaboratif.\n\n\n\nTotal:** 16 / 20 — **Kompeten\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
