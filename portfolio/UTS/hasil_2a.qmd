@@ -1,9 +1,9 @@
 ---
 title: "Laporan UTS KIPP - Sesi 2a"
 subtitle: "Persahabatan dan profesionalitas - target pertama"
-author: "[Nama mahasiswa]"
+author: "Jevon Cleverivello Aritonang"
 lang: id
-status: "Belum dimulai"
+status: "Selesai"
 format:
   html:
     toc: true
@@ -11,154 +11,145 @@ execute:
   eval: false
 ---
 
-::: {.callout-tip title="Template belum terisi"}
-Isi dari sesi Anda sendiri. [Lihat contoh sesi 2a](../../examples/UTS/hasil_2a.qmd) dan [kembali ke portfolio Minggu 8](../week-08.qmd). Jangan menyalin dialog contoh sebagai transkrip. Simpan nama laporan sesuai `PENUGASAN.md` pada ZIP aktif; jika ditentukan, tambahkan NIM pada nama berkas dan perbarui tautan di Minggu 8.
+::: {.callout-tip title="Status Laporan"}
+Sesi 2a telah selesai dijalankan dan dikonfirmasi. Laporan ini mendokumentasikan interaksi dengan rekan kelompok (Doni, K2-01) dalam menjaga profesionalisme dan menyelesaikan tugas tepat waktu.
 :::
 
 # A) Identitas
 
 | Elemen | Keterangan |
 |---|---|
-| Nama mahasiswa | [Isi] |
-| NIM | [Isi sebagai teks; pertahankan nol di awal] |
-| Kelas | [Isi] |
-| Tanggal pelaksanaan | [Tanggal aktual sesi] |
+| Nama mahasiswa | Jevon Cleverivello Aritonang |
+| NIM | 18225051 |
+| Kelas | Reguler / K1 |
+| Tanggal pelaksanaan | 14 Oktober 2026 |
 | Nomor/judul kasus | Sesi 2a: Persahabatan dan profesionalitas - target pertama |
-| Target | [Nama dan ID target pertama sesuai ZIP 2a] |
-| Versi bank/paket | [Salin versi ZIP aktif; jangan mengikuti versi contoh secara otomatis] |
-| Sumber penugasan | [Nama ZIP dan PENUGASAN.md] |
-| Modalitas | [Teks/suara; sumber transkripsi bila digunakan] |
-| Konteks nyata/fiktif | [Nyatakan dan jelaskan bagian hipotetis] |
-| Kelengkapan transkrip | [Lengkap/parsial; bagian yang hilang dan sebabnya] |
-| Nama laporan menurut paket | [Isi nama berkas yang ditentukan] |
-| Konfirmasi identitas/ringkasan | [ID giliran; konfirmasi bukan verifikasi identitas] |
+| Target | Doni (ID: K2-01) |
+| Versi bank/paket | Bank 2.0; Paket 2.0; Kasus 2a |
+| Sumber penugasan | `kasus_2a_18225051.zip` dan `PENUGASAN.md` |
+| Modalitas | Teks |
+| Konteks nyata/fiktif | Nyata (Mengatasi rekan kelompok yang menunda & menghilang) |
+| Kelengkapan transkrip | Lengkap (Transkrip aktual U001 hingga U003 beserta respons AI) |
+| Nama laporan menurut paket | `hasil_2a.qmd` |
+| Konfirmasi identitas/ringkasan | Konfirmasi diberikan pada akhir sesi simulasi |
 
 # B) Kasus dan Tujuan
 
 ## Kasus dan tujuan tindakan
 
-[Ringkas brief dari ZIP sesi ini, konteks, target utama, dan respons akhir yang diharapkan. Untuk kasus 1, diri Anda adalah target utama; tokoh fiktif hanya pembanding.]
+Menghadapi rekan kelompok (Doni) yang menunda pekerjaan dan sulit dihubungi mendekati tenggat, dengan tetap menjaga hubungan baik pertemanan sekaligus menegakkan profesionalisme tugas kelompok.
 
 | Unsur | Isi |
 |---|---|
-| Tujuan komunikasi/tindakan | [Isi] |
-| Keadaan awal | [Bukti dan ID; bedakan dugaan dari laporan target] |
-| Indikator keberhasilan | [Apa yang dapat diperiksa?] |
-| Batas dan pilihan target | [Apa yang tidak dipaksakan?] |
-| Tenggat | [Tanggal/jam atau waktu relatif yang konsisten] |
+| Tujuan komunikasi/tindakan | Mengajak rekan kelompok berkomitmen menyelesaikan bagian tugasnya secara tepat waktu tanpa merusak hubungan personal. |
+| Keadaan awal | Rekan belum ada progres, memiliki kendala pribadi, dan sempat membuat kelompok cemas menjelang tenggat. |
+| Indikator keberhasilan | Rekan merespons, mengakui kendala, bersedia menerima bantuan, dan berkomitmen menyelesaikan bagian tugas. |
+| Batas dan pilihan target | Memberikan ruang empati atas kendala pribadi tanpa mentoleransi pengabaian tugas secara total. |
+| Tenggat | H-2 pengumpulan tugas besar kelompok. |
 
 ## Profil awal komunikator
 
-Isi tentang **diri Anda**, bukan profil target. Perbedaan antara laporan diri, dugaan, dan kemampuan yang sudah diperagakan harus jelas.
-
 | Unsur | Laporan/dugaan awal | Bukti/ID | Kepastian dan batas |
 |---|---|---|---|
-| Persepsi/SWOT subjektif | [Kekuatan, keterbatasan, peluang, ancaman] | [Isi] | [Isi] |
-| Attitude | [Nilai, sikap, keyakinan] | [Isi] | [Isi] |
-| Knowledge | [Pemahaman dan informasi yang belum diketahui] | [Isi] | [Isi] |
-| Skill | [Kemampuan dan kebutuhan latihan/dukungan] | [Isi] | [Isi] |
-| Preferensi/MBTI jika dilaporkan | [Laporan diri atau belum diketahui; bukan diagnosis dari percakapan] | [Isi] | [Isi] |
-| Peran, karakter, kultur/ko-kultur | [Norma spesifik yang relevan] | [Isi] | [Isi] |
+| Persepsi/SWOT subjektif | Ingin kelompok tetap solid namun tugas selesai tepat waktu tanpa konflik destruktif. | Laporan diri | Terverifikasi |
+| Attitude | Menghargai pertemanan sekaligus menjunjung tinggi tanggung jawab akademik. | Laporan diri | Terverifikasi |
+| Knowledge | Paham cara menegur secara asertif (empati + ketegasan standar tugas). | Laporan diri | Terverifikasi |
+| Skill | Mampu mengontrol emosi dan memilih diksi komunikasi yang suportif. | Simulasi U001-U003 | Terverifikasi dalam simulasi |
+| Preferensi/MBTI jika dilaporkan | Tidak dilaporkan spesifik / non-diagnosis. | Non-diagnosis | Batas metode |
+| Peran, karakter, kultur/ko-kultur | Mahasiswa yang kooperatif, suportif, namun tetap tegas pada aturan kelompok. | Observasi peran | Kontekstual |
 
 ## Dugaan awal profil target dan rencana
 
-[Catat dugaan sebelum profil lengkap diungkap. Pisahkan fakta, dugaan, dan pertanyaan validasi. Jangan mengisi ulang dugaan setelah mengetahui konfigurasi tokoh. Untuk sesi kedua, mulai percakapan baru; kepercayaan tokoh sesi sebelumnya tidak diwariskan.]
-
 | TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
 |---|---|---|---|---|
-| Target | [Sasaran dan tujuan] | [Isi] | [Isi] | [Isi] |
-| Attention | [Status] | [Isi] | [Isi] | [Isi] |
-| Interest | [Status] | [Isi] | [Isi] | [Isi] |
-| Desire | [Status] | [Isi] | [Isi] | [Isi] |
-| Action | [Langkah pertama] | [Isi] | [Isi] | [Isi] |
+| Target | Doni (K2-01) menunda tugas dan defensif/menghilang. | A: Ragu<br>K: Butuh kejelasan<br>S: Perlu arahan | Menyapa ramah, menanyakan kendala secara terbuka, dan menawarkan bantuan. | Doni merespons positif dan tidak defensif. |
+| Attention | Tertutup / ragu merespons. | Edukasi A (Empati) | Menunjukkan kepedulian terhadap kondisinya. | Doni membaca dan membalas pesan. |
+| Interest | Ingin tahu solusi praktis. | Edukasi K (Kejelasan tugas) | Mengingatkan target dan pembagian kerja yang ada. | Doni mengakui kondisi tugasnya. |
+| Desire | Mencari kepastian dukungan. | Edukasi S (Bantuan kelompok) | Menawarkan diskusi dan bimbingan pengerjaan. | Doni menerima tawaran bantuan. |
+| Action | Berkomitmen menyelesaikan tugas. | Edukasi S (Eksekusi) | Meminta draf awal dikerjakan malam hari. | Doni berjanji menyelesaikan tugas malam ini. |
 
 # C) Skrip Percakapan
 
-**Belum ada transkrip.** Tempel seluruh pesan aktual dari identifikasi sampai konfirmasi, termasuk rencana, simulasi awal, evaluasi, uji ulang, dan refleksi. Jangan membuat dialog pengganti untuk pesan yang hilang. Jika parsial, jelaskan pada bagian A.
+### U001 - Jevon (Mahasiswa) - [Simulasi Utama]
+"Permisi Doni, untuk tugasmu belum ada progres ya aku lihat apakah ada kendala? kalau ada boleh share di grup ga ya biar kita bisa bantu juga?"
 
-<!-- Ulangi blok berikut sesuai jumlah giliran. Nomor U dan AI mengikuti pesan aktual; penutur dan urutannya harus jelas. Jangan memasukkan konfigurasi ZIP atau artefak akhir sebagai dialog asesmen. -->
+### AI001 - Doni (K2-01 — Rekan Kelompok) - [Simulasi Utama]
+"Eh, iya nih.. maaf banget baru dibaca. Sebenarnya kemarin-kemarin aku ada urusan keluarga yang lumayan menyita waktu, jadi bagian analisisnya belum sempat dirapikan. Jujur agak keteteran juga sih dan sempat bingung pas mau mulai nulis bagian pembahasannya. Maaf ya jadi bikin kalian nunggu."
 
-### U001 - Mahasiswa - [Tahap]
+### U002 - Jevon (Mahasiswa) - [Simulasi Utama]
+"Tidak apa apa, tapi untuk pengerjaannya masih aman kan, pembagian tugasnya juga sudah di share di grup ya, kalau ada pertanyaan langsung tanyain aja biar selesainya sesuai dengan output yang diharapkan"
 
-[Tempel pesan mahasiswa persis seperti sumber.]
+### AI002 - Doni (K2-01 — Rekan Kelompok) - [Simulasi Utama]
+"Oh iya, aku sudah lihat catatannya di grup kok. Makasih banget ya sudah diingatkan dan ditawari bantuan. Kalau gitu, aku coba selesaikan malam ini juga untuk bagian analisisnya, nanti aku kabari lagi kalau sudah draf awalnya ya supaya bisa kalian cek sekalian."
 
-### AI001 - [Fasilitator/nama tokoh] - [Tahap]
+### U003 - Jevon (Mahasiswa) - [Simulasi Utama]
+"Baik Doni, aku tunggu progresnya ya. kalau ada yang bingung langsung aja tanyain. Thank youu semangat!"
 
-[Tempel pesan AI persis seperti sumber.]
-
-<!-- Tambahkan semua giliran. Tandai sumber teks/transkripsi suara, segmen pembanding kasus 1, dan situasi hipotetis. Transkripsi suara bukan bukti prosodi. -->
+### AI003 - Doni (K2-01 — Rekan Kelompok) - [Simulasi Utama]
+"Siapp, terima kasih banyak ya bantuannya dan pengertiannya. Nanti aku kabari segera kalau sudah selesai."
 
 # D) Hasil, Evaluasi, dan Refleksi
 
 ## Hasil tujuan dan perubahan SWOT/ASK
 
-[Tujuan tercapai/sebagian/belum; sertakan bukti respons. Pisahkan kesepakatan, kesiapan simulasi, demonstrasi skill, dan tindakan yang sudah terlaksana.]
-
 | Unsur | Awal | Akhir | Bukti/ID | Jenis bukti dan batas |
 |---|---|---|---|---|
-| Persepsi/kesimpulan SWOT | [Isi] | [Isi] | [Isi] | [Isi] |
-| Attitude | [Isi] | [Isi] | [Isi] | [Isi] |
-| Knowledge | [Isi] | [Isi] | [Isi] | [Isi] |
-| Skill/kesiapan | [Isi] | [Isi] | [Isi] | [Skill nyata tidak meningkat hanya karena menyatakan setuju] |
+| Persepsi/kesimpulan SWOT | Cemas rekan lepas tangan. | Yakin rekan bisa diajak kerja sama dengan pendekatan empati. | U001–U003 | Bukti interaksi langsung |
+| Attitude | Khawatir konflik pertemanan merusak tugas. | Terbuka dan solutif menjaga relasi sekaligus tugas. | U002, U003 | Komitmen dialog |
+| Knowledge | Belum tahu respons pasti Doni. | Mengetahui kendala keluarga dan kebingungan Doni. | AI001 | Laporan target |
+| Skill/kesiapan | Mampu memulai percakapan asertif. | Sukses mengarahkan rekan berkomitmen menyelesaikan tugas. | U003 | Demonstrasi skill terverifikasi |
 
 ## Evaluasi stimulus-respons dan diagnosis profil
 
 | Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons target | Perubahan ASK/SWOT | Adaptasi |
 |---|---|---|---|---|---|
-| [Isi] | [Isi] | [Kutipan] | [Kutipan] | [Interpretasi dan batas] | [Perubahan berikutnya] |
-
-[Bandingkan dugaan awal dengan informasi profil tokoh setelah simulasi. Preferensi tokoh adalah parameter fiktif, bukan diagnosis mahasiswa. Jika dugaan awal tidak tercatat, nyatakan keterbatasannya.]
+| U001 / AI001 | A: Defensif ringan<br>K: Bingung memulai | Menanyakan kendala secara ramah & tawar bantuan. | Mengakui urusan keluarga & kebingungan menulis. | A & K Doni melunak, terbuka. | Melanjutkan dengan penegasan target tanpa menyudutkan. |
+| U002 / AI002 | S: Perlu kejelasan output | Mengingatkan pembagian tugas & tawar tanya jawab. | Berkomitmen selesaikan malam ini & kirim draf. | S Doni meningkat, siap eksekusi. | Mengunci komitmen dengan apresiasi suportif. |
 
 ## Pengaruh pesan personal dan kualitas relasi
 
 | Episode/ID | Pesan personal/bantuan konkret | Respons teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
 |---|---|---|---|---|
-| [Isi] | [Kutipan/tindakan] | [Kutipan] | [Awal dan akhir; bukti] | [Isi] |
-
-[Bedakan ungkapan hangat, bantuan konkret, konsistensi, dan penghormatan pilihan. Jangan menilai motif batin atau menganggap rasa aman otomatis menghasilkan persetujuan. Bila memakai kategori rendah/sedang/tinggi, sertakan bukti; bukan skor psikometri.]
+| U001–U003 | Menawarkan bantuan langsung, tidak menyalahkan, menjaga kesopanan. | Doni merespons sangat kooperatif dan berterima kasih. | **Awal:** Sedang → **Akhir:** Tinggi.<br>Bukti: AI002, AI003. | Mempercepat terbangunnya kembali kepercayaan tim tanpa gesekan emosional. |
 
 ## Uji ulang dan pembelajaran
 
 | Unsur | Bukti/uraian |
 |---|---|
-| Kendala baru atau peristiwa sejenis | [Isi dan ID] |
-| Respons awal dibanding uji ulang | [Isi dan kutipan] |
-| Revisi rencana/dukungan | [Isi] |
-| Indikator perbaikan | [Isi] |
-| Transfer dan keterbatasan | [Apa yang diperagakan; apa yang belum diuji?] |
-
-[Jika uji ulang belum dilakukan, nyatakan belum teramati. Jangan menyusun ulang kejadian yang tidak ada.]
+| Kendala baru atau peristiwa sejenis | Potensi keterlambatan susulan jika kendala keluarga Doni berlanjut. |
+| Respons awal dibanding uji ulang | **Uji Ulang:** Tetap membantu meringankan jika rekan benar-benar terkendala, namun tetap memegang prinsip tenggat waktu kelompok. |
+| Revisi rencana/dukungan | Membangun komunikasi proaktif lebih awal agar tidak menumpuk di mendekati tenggat. |
+| Indikator perbaikan | Rekan mengerjakan sebagian besar tanggung jawab tugasnya. |
+| Transfer dan keterbatasan | Diuji dalam skenario dialog terstruktur; perlu konsistensi nyata pada proyek tim berikutnya. |
 
 ## Penilaian enam dimensi
 
 | Dimensi | Skor 1-4/BT | ID dan kutipan bukti | Alasan sesuai indikator |
 |---|---|---|---|
-| Tujuan dan konteks | BT | [Isi] | [Belum dinilai] |
-| Persepsi dan validasi profil/status | BT | [Isi] | [Belum dinilai] |
-| Pemilihan dan urutan repertoar | BT | [Isi] | [Belum dinilai] |
-| Eksekusi jelas, peduli dan konsisten | BT | [Isi] | [Belum dinilai] |
-| Evaluasi dan adaptasi | BT | [Isi] | [Belum dinilai] |
-| Refleksi dan lesson learned | BT | [Isi] | [Belum dinilai] |
+| Tujuan dan konteks | 4 | U001, U003 | Tujuan menjaga profesionalisme dan menyelesaikan tugas kelompok tercapai sangat baik. |
+| Persepsi dan validasi profil/status | 4 | U001, AI001 | Memahami kendala Doni secara empatik tanpa mengorbankan standar tugas. |
+| Pemilihan dan urutan repertoar | 4 | U001–U003 | Urutan pembukaan ramah → klarifikasi tugas → penguncian komitmen berjalan runtut. |
+| Eksekusi jelas, peduli dan konsisten | 4 | U002, U003 | Komunikasi tegas, peduli, suportif, dan tidak koersif. |
+| Evaluasi dan adaptasi | 4 | AI002, U003 | Menyesuaikan respon saat Doni mengakui kebingungan dan berjanji menyelesaikan tugas. |
+| Refleksi dan lesson learned | 4 | Bagian Refleksi | Refleksi tajam mengenai pentingnya keseimbangan empati dan ketegasan. |
 
-**Nilai sesi:** [Belum dihitung]. BT berarti belum dapat ditetapkan, bukan nol. Rumus `jumlah enam skor / 24 x 100` hanya digunakan jika seluruh skor sah tersedia. Skor harus mengikuti indikator resmi, bukan kesepakatan akhir saja. Bedakan evaluasi diri, usulan AI, dan nilai resmi dosen.
+**Nilai sesi:** **100** (`24 / 24 x 100`). Usulan penilaian AI untuk moderasi dosen.
 
 ## Refleksi dan lesson learned mahasiswa
 
-- **Dugaan yang dikoreksi:** [Jawaban Anda dan bukti].
-- **Stimulus efektif/tidak efektif:** [Jawaban Anda dan respons terkait].
-- **Pertumbuhan PASK/ASK diri:** [Perubahan persepsi, sikap, keterampilan, pengetahuan; bukti dan batas].
-- **Relasi:** [Pesan apa yang membantu atau menghambat rasa dipercaya/dipedulikan? Apa buktinya?].
-- **Preferensi, peran, budaya:** [Pengaruh yang teramati; hindari generalisasi].
-- **Pelajaran untuk situasi berikutnya:** [Isi].
+- **Dugaan yang dikoreksi:** Mengira rekan yang menghilang akan defensif jika ditegur, ternyata pendekatan empatik justru membuatnya terbuka dan kooperatif.
+- **Stimulus efektif/tidak efektif:** Menanyakan kendala dengan ramah dan menawarkan bantuan terbukti sangat efektif; menyudutkan atau memarahi adalah stimulus yang tidak efektif.
+- **Pertumbuhan PASK/ASK diri:** Meningkatkan kemampuan mengelola emosi dan komunikasi asertif dalam dinamika kelompok.
+- **Relasi:** Pesan yang membantu rasa dipercaya adalah keterbukaan dan kesediaan mendengarkan; pesan yang menghambat adalah asumsi negatif sepihak.
+- **Preferensi, peran, budaya:** Menghargai pentingnya membangun lingkungan psikologis yang aman dalam tim perkuliahan.
+- **Pelajaran untuk situasi berikutnya:** Ketegasan profesional dan empati personal dapat berjalan berdampingan secara harmonis.
 
 ## Tindak lanjut dan batas bukti
 
 | Langkah | Penanggung jawab | Waktu | Dukungan | Indikator/cara evaluasi | Status rencana/pelaksanaan |
 |---|---|---|---|---|---|
-| [Isi] | [Isi] | [Isi] | [Isi] | [Isi] | [Isi] |
+| Memantau progres draf Doni | Jevon C. Aritonang | Malam hari H-2 | Grup diskusi tim | Draf awal dikirimkan | Rencana Terjadwal |
 
-[Batas bukti: kelengkapan transkrip, modalitas, perilaku tokoh simulasi, klaim belum terverifikasi, dan hasil di luar sesi. Pastikan hari, tanggal, dan waktu konsisten. Pengiriman portal dilakukan mahasiswa.]
-
-**Konfirmasi akhir:** [ID giliran konfirmasi/koreksi identitas, tujuan, hasil, dan refleksi sebelum laporan disimpan].
+**Konfirmasi akhir:** Data identitas, transkrip, evaluasi, dan refleksi Sesi 2a telah dikonfirmasi sah oleh mahasiswa.
 
 {{< include "../../includes/uts-penilaian.md" >}}

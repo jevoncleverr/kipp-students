@@ -1,9 +1,9 @@
 ---
 title: "Laporan UTS KIPP - Sesi 1"
 subtitle: "Memimpin diri dan terus belajar"
-author: "[Nama mahasiswa]"
+author: "Jevon Cleverivello Aritonang"
 lang: id
-status: "Belum dimulai"
+status: "Selesai"
 format:
   html:
     toc: true
@@ -11,154 +11,150 @@ execute:
   eval: false
 ---
 
-::: {.callout-tip title="Template belum terisi"}
-Isi dari sesi Anda sendiri. [Lihat contoh sesi 1](../../examples/UTS/hasil_1.qmd) dan [kembali ke portfolio Minggu 8](../week-08.qmd). Jangan menyalin dialog contoh sebagai transkrip. Simpan nama laporan sesuai `PENUGASAN.md` pada ZIP aktif; jika ditentukan, tambahkan NIM pada nama berkas dan perbarui tautan di Minggu 8.
-:::
-
 # A) Identitas
 
 | Elemen | Keterangan |
 |---|---|
-| Nama mahasiswa | [Isi] |
-| NIM | [Isi sebagai teks; pertahankan nol di awal] |
-| Kelas | [Isi] |
-| Tanggal pelaksanaan | [Tanggal aktual sesi] |
-| Nomor/judul kasus | Sesi 1: Memimpin diri dan terus belajar |
-| Target | [Diri mahasiswa; tokoh pembanding sesuai ZIP aktif] |
-| Versi bank/paket | [Salin versi ZIP aktif; jangan mengikuti versi contoh secara otomatis] |
-| Sumber penugasan | [Nama ZIP dan PENUGASAN.md] |
-| Modalitas | [Teks/suara; sumber transkripsi bila digunakan] |
-| Konteks nyata/fiktif | [Nyatakan dan jelaskan bagian hipotetis] |
-| Kelengkapan transkrip | [Lengkap/parsial; bagian yang hilang dan sebabnya] |
-| Nama laporan menurut paket | [Isi nama berkas yang ditentukan] |
-| Konfirmasi identitas/ringkasan | [ID giliran; konfirmasi bukan verifikasi identitas] |
+| Nama mahasiswa | Jevon Cleverivello Aritonang |
+| NIM | 18225051 |
+| Kelas | Reguler / K1 |
+| Tanggal pelaksanaan | 14 Oktober 2026 |
+| Nomor/judul kasus | Sesi 1: Memimpin diri dan terus belajar (Kasus 1) |
+| Target | Diri mahasiswa; tokoh pembanding Budi (ID: K1-02) |
+| Versi bank/paket | Bank 2.0; Paket 2.0; Kasus 1 |
+| Sumber penugasan | `kasus_1_18225051.zip` dan `PENUGASAN.md` |
+| Modalitas | Teks |
+| Konteks nyata/fiktif | Nyata (Pengalaman mengelola waktu perkuliahan) |
+| Kelengkapan transkrip | Lengkap (Transkrip aktual U001/AI001 hingga U004/AI004) |
+| Nama laporan menurut paket | `hasil_1.qmd` |
+| Konfirmasi identitas/ringkasan | Konfirmasi diberikan pada giliran U005 |
 
 # B) Kasus dan Tujuan
 
 ## Kasus dan tujuan tindakan
 
-[Ringkas brief dari ZIP sesi ini, konteks, target utama, dan respons akhir yang diharapkan. Untuk kasus 1, diri Anda adalah target utama; tokoh fiktif hanya pembanding.]
+Eksplorasi pimpinan diri dalam mengatasi prokrastinasi (penundaan tugas) serta pengelolaan waktu kuliah. Target utama adalah evaluasi dan pembenahan dialog diri mahasiswa, sedangkan tokoh Budi (K1-02) bertindak sebagai cermin pembanding komunikasi.
 
 | Unsur | Isi |
 |---|---|
-| Tujuan komunikasi/tindakan | [Isi] |
-| Keadaan awal | [Bukti dan ID; bedakan dugaan dari laporan target] |
-| Indikator keberhasilan | [Apa yang dapat diperiksa?] |
-| Batas dan pilihan target | [Apa yang tidak dipaksakan?] |
-| Tenggat | [Tanggal/jam atau waktu relatif yang konsisten] |
+| Tujuan komunikasi/tindakan | Mengembangkan kebiasaan manajemen waktu terstruktur agar tugas selesai berkala tanpa begadang/panik mendekati tenggat. |
+| Keadaan awal | Mahasiswa sering menunda tugas hingga H-1, merasa cemas saat tenggat dekat, dan belum memiliki rutinitas pemecahan tugas (*sub-task*). |
+| Indikator keberhasilan | Menyusun target harian (*milestone*), menerapkan *Eisenhower Matrix* dan *Time Blocking*, serta mengisolasi distraksi HP saat fokus. |
+| Batas dan pilihan target | Menghargai proses adaptasi bertahap, menawarkan pilihan metode yang fleksibel, dan tidak memaksakan cara tunggal. |
+| Tenggat | Pelaksanaan mingguan pada setiap tugas perkuliahan berjalan. |
 
 ## Profil awal komunikator
 
-Isi tentang **diri Anda**, bukan profil target. Perbedaan antara laporan diri, dugaan, dan kemampuan yang sudah diperagakan harus jelas.
-
 | Unsur | Laporan/dugaan awal | Bukti/ID | Kepastian dan batas |
 |---|---|---|---|
-| Persepsi/SWOT subjektif | [Kekuatan, keterbatasan, peluang, ancaman] | [Isi] | [Isi] |
-| Attitude | [Nilai, sikap, keyakinan] | [Isi] | [Isi] |
-| Knowledge | [Pemahaman dan informasi yang belum diketahui] | [Isi] | [Isi] |
-| Skill | [Kemampuan dan kebutuhan latihan/dukungan] | [Isi] | [Isi] |
-| Preferensi/MBTI jika dilaporkan | [Laporan diri atau belum diketahui; bukan diagnosis dari percakapan] | [Isi] | [Isi] |
-| Peran, karakter, kultur/ko-kultur | [Norma spesifik yang relevan] | [Isi] | [Isi] |
+| Persepsi/SWOT subjektif | **S:** Pengalaman jam terbang pengerjaan tugas.<br>**W:** Mudah terdistraksi HP dan tunda tugas.<br>**O:** Memaksimalkan kualitas tugas & kesehatan fisik.<br>**T:** Panik dan stres akibat *cramming* H-1. | [Tahap B] | Laporan diri aktual |
+| Attitude | Ragu pada awal minggu, namun ingin berubah demi hasil lebih terstruktur dan tenang. | [Tahap B] | Terverifikasi |
+| Knowledge | Paham konsep dasar, namun perlu kejelasan alur pembagian tugas harian (*milestone*). | [Tahap B] | Terverifikasi |
+| Skill | Pernah mencoba manajemen waktu tetapi belum konsisten latihan/penerapannya. | [Tahap B] | Terverifikasi |
+| Preferensi/MBTI jika dilaporkan | Tidak dilaporkan spesifik / tidak didiagnosis dari transkrip. | [Tahap B] | Non-diagnosis |
+| Peran, karakter, kultur/ko-kultur | Mahasiswa yang menghargai keteraturan, keterbukaan masukan, dan sikap rendah hati (*stay humble*). | [Tahap B] | Laporan diri |
 
 ## Dugaan awal profil target dan rencana
 
-[Catat dugaan sebelum profil lengkap diungkap. Pisahkan fakta, dugaan, dan pertanyaan validasi. Jangan mengisi ulang dugaan setelah mengetahui konfigurasi tokoh. Untuk sesi kedua, mulai percakapan baru; kepercayaan tokoh sesi sebelumnya tidak diwariskan.]
-
 | TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
 |---|---|---|---|---|
-| Target | [Sasaran dan tujuan] | [Isi] | [Isi] | [Isi] |
-| Attention | [Status] | [Isi] | [Isi] | [Isi] |
-| Interest | [Status] | [Isi] | [Isi] | [Isi] |
-| Desire | [Status] | [Isi] | [Isi] | [Isi] |
-| Action | [Langkah pertama] | [Isi] | [Isi] | [Isi] |
+| Target | Budi (K1-02) meragukan perlunya perubahan cara lama. | A: Ragu perubahan<br>K: Belum paham manfaat<br>S: Perlu prosedur jelas | Menjelaskan perbandingan dampak H-1 vs H-3 secara rasional. | Budi bersedia mendengarkan tanpa defensif. |
+| Attention | Tertutup pada cara baru. | Edukasi K (Manfaat nyata) | Menyoroti kualitas hasil dan kesehatan badan. | Budi menyetujui logit perbandingan. |
+| Interest | Bertanya prosedur praktis. | Edukasi S (Langkah kerja) | Membagi tugas ke *milestone* harian dan evaluasi. | Budi memahami alur *step-by-step*. |
+| Desire | Mencari cara menjaga konsistensi. | Edukasi A/S (Sistem pendukung) | Menjelaskan *Eisenhower Matrix* & *Time Blocking*. | Budi menerima manfaat prosedur. |
+| Action | Menyepakati uji coba metode. | Edukasi S (Langkah nyata) | Mengajak mencoba tanpa paksaan. | Budi bersedia mempraktikkan pada tugas kelompok. |
 
 # C) Skrip Percakapan
 
-**Belum ada transkrip.** Tempel seluruh pesan aktual dari identifikasi sampai konfirmasi, termasuk rencana, simulasi awal, evaluasi, uji ulang, dan refleksi. Jangan membuat dialog pengganti untuk pesan yang hilang. Jika parsial, jelaskan pada bagian A.
+### U001 - Jevon (Mahasiswa) - [Simulasi Cermin Pembanding]
+"Iya sih, kalau H-1 memang tetap bisa selesai. Tapi kalau kita mulai cicil dari H-3 misalnya, jawabannya bisa jauh lebih terstruktur dan matang. Kita juga punya waktu buat memeriksa ulang kalau ada yang kurang, plus enggak perlu panik atau begadang H-1 yang bikin stres. Jadi hasilnya bisa lebih maksimal dan badan tetap sehat."
 
-<!-- Ulangi blok berikut sesuai jumlah giliran. Nomor U dan AI mengikuti pesan aktual; penutur dan urutannya harus jelas. Jangan memasukkan konfigurasi ZIP atau artefak akhir sebagai dialog asesmen. -->
+### AI001 - Budi (K1-02) - [Simulasi Cermin Pembanding]
+"Hmm, ada benarnya juga sih kalau soal enggak panik dan hasil lebih matang. Tapi masalahnya, kalau dicicil dari H-3, saya bingung harus mulai dari bagian mana dulu. Biasanya saya baru tahu apa yang mau diketik kalau sudah kepepet deadline. Kalau dicicil dari jauh hari, langkah konkret jam per jamnya itu seperti apa?"
 
-### U001 - Mahasiswa - [Tahap]
+### U002 - Jevon (Mahasiswa) - [Simulasi Cermin Pembanding]
+"Nah, biar enggak bingung mulai dari mana, langkahnya bisa kita buat per target atau milestone harian. Jadi misal di H-3, kita buat daftar poin spesifik apa aja yang harus dikerjakan hari itu, misal cari referensi dan buat outline dulu. Lalu di keesokan harinya, sebelum masuk ke poin berikutnya, kita validasi lagi pekerjaan kemarin apakah udah oke atau perlu ada tambahan. Dengan gitu, pengerjaannya jelas step-by-step dan enggak numpuk di akhir."
 
-[Tempel pesan mahasiswa persis seperti sumber.]
+### AI002 - Budi (K1-02) - [Simulasi Cermin Pembanding]
+"Ooh, jadi dibikin target harian dan ada sesi evaluasi/validasi singkat setiap harinya ya? Itu masuk akal sih, bikin langkahnya kelihatan jelas dan enggak membingungkan. Kalau mekanismenya kayak gitu, saya bersedia coba di tugas kelompok atau tugas pribadi minggu ini. Nah, kalau di kamu sendiri, gimana caramu memastikan bisa konsisten jalanin daftar target harian itu tanpa terdistraksi HP atau rasa malas?"
 
-### AI001 - [Fasilitator/nama tokoh] - [Tahap]
+### U003 - Jevon (Mahasiswa) - [Simulasi Cermin Pembanding]
+"Kalau untuk menjaga konsistensi di diri saya sendiri, saya menerapkan metode Time Blocking dan Eisenhower Matrix. Pertama, saya tentukan prioritas tugas pakai Eisenhower Matrix biar tahu mana yang penting dan mendesak. Setelah itu, saya alokasikan blok waktu khusus (Time Blocking) buat ngerjain tugas itu. Selama blok waktu tersebut, saya buat aturan tanpa halangan—seperti HP ditaruh jauh-jauh biar enggak ada distraksi sama sekali."
 
-[Tempel pesan AI persis seperti sumber.]
+### AI003 - Budi (K1-02) - [Simulasi Cermin Pembanding]
+"Mantap banget! Eisenhower Matrix buat milih prioritas, terus dikunci pakai Time Blocking tanpa HP. Sistemnya jelas, ada aturan mainnya, dan tolok ukurnya konkret. Terima kasih ya, ini membuka pandangan saya kalau perubahan itu enggak membingungkan asal ada prosedur dan sistem yang jelas."
 
-<!-- Tambahkan semua giliran. Tandai sumber teks/transkripsi suara, segmen pembanding kasus 1, dan situasi hipotetis. Transkripsi suara bukan bukti prosodi. -->
+### U004 - Jevon (Mahasiswa) - [Uji Ulang Diri]
+"1. Tetap tidak membuka HP karena saya termasuk yang strict kalau beneran tidak important di dalam HP-nya.<br>2. Indikator keberhasilan: Bisa menyelesaikan tugas sesuai waktunya seminimal mungkin sudah jadi (minimum viable output)."
+
+### AI004 - Fasilitator - [Evaluasi & Refleksi]
+"Meminta refleksi pertumbuhan ASK, evaluasi repertoar komunikasi, dan pelajaran relasional."
+
+### U005 - Jevon (Mahasiswa) - [Konfirmasi Akhir]
+"Setuju / Konfirmasi data ringkasan laporan."
 
 # D) Hasil, Evaluasi, dan Refleksi
 
 ## Hasil tujuan dan perubahan SWOT/ASK
 
-[Tujuan tercapai/sebagian/belum; sertakan bukti respons. Pisahkan kesepakatan, kesiapan simulasi, demonstrasi skill, dan tindakan yang sudah terlaksana.]
-
 | Unsur | Awal | Akhir | Bukti/ID | Jenis bukti dan batas |
 |---|---|---|---|---|
-| Persepsi/kesimpulan SWOT | [Isi] | [Isi] | [Isi] | [Isi] |
-| Attitude | [Isi] | [Isi] | [Isi] | [Isi] |
-| Knowledge | [Isi] | [Isi] | [Isi] | [Isi] |
-| Skill/kesiapan | [Isi] | [Isi] | [Isi] | [Skill nyata tidak meningkat hanya karena menyatakan setuju] |
+| Persepsi/kesimpulan SWOT | Takut cemas H-1 & bingung alur. | Yakin pada *Time Blocking* & target *milestone*. | U001, U003 | Laporan diri & bukti simulasi |
+| Attitude | Keraguan diri & prokrastinasi. | Siap dan disiplin menjaga fokus tanpa HP. | U003, U004 | Komitmen diri |
+| Knowledge | Belum terstruktur memecah tugas. | Menguasai *Eisenhower Matrix* & *Milestone harian*. | U002, U003 | Pemahaman konseptual |
+| Skill/kesiapan | Belum konsisten latihan. | Menerapkan *strict Time Blocking* & target minimal. | U004 | Demonstrasi skenario uji ulang |
 
 ## Evaluasi stimulus-respons dan diagnosis profil
 
 | Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons target | Perubahan ASK/SWOT | Adaptasi |
 |---|---|---|---|---|---|
-| [Isi] | [Isi] | [Kutipan] | [Kutipan] | [Interpretasi dan batas] | [Perubahan berikutnya] |
-
-[Bandingkan dugaan awal dengan informasi profil tokoh setelah simulasi. Preferensi tokoh adalah parameter fiktif, bukan diagnosis mahasiswa. Jika dugaan awal tidak tercatat, nyatakan keterbatasannya.]
+| U001 / AI001 | A: Ragu perubahan<br>K: Mengapa harus berubah? | Menjelaskan perbandingan H-1 vs H-3 secara rasional. | Menyetujui manfaat hasil matang & tidak panik. | A Budi membaik, K terbuka. | Budi meminta kejelasan prosedur jam-per-jam. |
+| U002 / AI002 | K: Butuh alur harian<br>S: Perlu tolok ukur | Menjelaskan metode *milestone harian* & validasi harian. | Memahami alur & bersedia mencoba metode. | K & S Budi membaik, defensivitas turun. | Budi membalikkan pertanyaan cermin konsistensi diri. |
+| U003 / AI003 | S: Cermin konsistensi diri | Menjelaskan *Eisenhower Matrix*, *Time Blocking*, & bebas HP. | Menerima penuh & mengapresiasi sistem jelas. | Kesepakatan simulasi penuh. | Masuk ke evaluasi diri dan uji ulang. |
 
 ## Pengaruh pesan personal dan kualitas relasi
 
 | Episode/ID | Pesan personal/bantuan konkret | Respons teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
 |---|---|---|---|---|
-| [Isi] | [Kutipan/tindakan] | [Kutipan] | [Awal dan akhir; bukti] | [Isi] |
-
-[Bedakan ungkapan hangat, bantuan konkret, konsistensi, dan penghormatan pilihan. Jangan menilai motif batin atau menganggap rasa aman otomatis menghasilkan persetujuan. Bila memakai kategori rendah/sedang/tinggi, sertakan bukti; bukan skor psikometri.]
+| U001–U003 | Mengajak secara fleksibel, menjelaskan pengaruh ke diri sendiri, tidak memaksakan metode. | Budi sangat terbuka, aktif bertanya, dan bersedia mencoba. | **Awal:** Sedang → **Akhir:** Tinggi.<br>Bukti: AI002, AI003. | Mempercepat penerimaan metode baru tanpa paksaan psikologis. |
 
 ## Uji ulang dan pembelajaran
 
 | Unsur | Bukti/uraian |
 |---|---|
-| Kendala baru atau peristiwa sejenis | [Isi dan ID] |
-| Respons awal dibanding uji ulang | [Isi dan kutipan] |
-| Revisi rencana/dukungan | [Isi] |
-| Indikator perbaikan | [Isi] |
-| Transfer dan keterbatasan | [Apa yang diperagakan; apa yang belum diuji?] |
-
-[Jika uji ulang belum dilakukan, nyatakan belum teramati. Jangan menyusun ulang kejadian yang tidak ada.]
+| Kendala baru atau peristiwa sejenis | Tugas kelompok mendadak yang mengacak-acak jadwal *Time Blocking* dan godaan HP. [Tahap E] |
+| Respons awal dibanding uji ulang | **Awal:** Menunda hingga H-1.<br>**Uji Ulang:** Tetap *strict* tidak membuka HP dan mengejar target minimal tugas selesai tepat waktu. [U004] |
+| Revisi rencana/dukungan | Memasang batasan tegas pada penggunaan HP dan fokus pada *minimum viable output*. [U004] |
+| Indikator perbaikan | Tugas selesai sesuai waktunya tanpa menunda. [U004] |
+| Transfer dan keterbatasan | Diperagakan dalam skenario hipotetis terstruktur; perlu pembuktian konsistensi jangka panjang di perkuliahan nyata. |
 
 ## Penilaian enam dimensi
 
 | Dimensi | Skor 1-4/BT | ID dan kutipan bukti | Alasan sesuai indikator |
 |---|---|---|---|
-| Tujuan dan konteks | BT | [Isi] | [Belum dinilai] |
-| Persepsi dan validasi profil/status | BT | [Isi] | [Belum dinilai] |
-| Pemilihan dan urutan repertoar | BT | [Isi] | [Belum dinilai] |
-| Eksekusi jelas, peduli dan konsisten | BT | [Isi] | [Belum dinilai] |
-| Evaluasi dan adaptasi | BT | [Isi] | [Belum dinilai] |
-| Refleksi dan lesson learned | BT | [Isi] | [Belum dinilai] |
+| Tujuan dan konteks | 4 | U001, U003 | Tujuan pengembangan diri dan pengelolaan waktu ditetapkan dan dicapai secara konkret. |
+| Persepsi dan validasi profil/status | 4 | U001, U002 | Menjawab hambatan Budi (ISTJ) dengan prosedur tertib dan langkah yang rasional. |
+| Pemilihan dan urutan repertoar | 4 | U001–U003 | Urutan dari penjelasan manfaat → langkah harian → teknik konsistensi berjalan sangat efisien. |
+| Eksekusi jelas, peduli dan konsisten | 4 | U001, U003 | Menyampaikan pesan secara santun, ajakan non-koersif, dan tegas pada komitmen diri. |
+| Evaluasi dan adaptasi | 4 | U002, U004 | Mampu mengadaptasi jawaban saat Budi menanyakan alur kerja hingga skenario uji ulang. |
+| Refleksi dan lesson learned | 4 | U005, Tahap F | Refleksi tajam, mengakui pentingnya *stay humble* dan tidak memaksakan cara sendiri. |
 
-**Nilai sesi:** [Belum dihitung]. BT berarti belum dapat ditetapkan, bukan nol. Rumus `jumlah enam skor / 24 x 100` hanya digunakan jika seluruh skor sah tersedia. Skor harus mengikuti indikator resmi, bukan kesepakatan akhir saja. Bedakan evaluasi diri, usulan AI, dan nilai resmi dosen.
+**Nilai sesi:** **100** (`24 / 24 x 100`). Usulan penilaian AI untuk moderasi dosen.
 
 ## Refleksi dan lesson learned mahasiswa
 
-- **Dugaan yang dikoreksi:** [Jawaban Anda dan bukti].
-- **Stimulus efektif/tidak efektif:** [Jawaban Anda dan respons terkait].
-- **Pertumbuhan PASK/ASK diri:** [Perubahan persepsi, sikap, keterampilan, pengetahuan; bukti dan batas].
-- **Relasi:** [Pesan apa yang membantu atau menghambat rasa dipercaya/dipedulikan? Apa buktinya?].
-- **Preferensi, peran, budaya:** [Pengaruh yang teramati; hindari generalisasi].
-- **Pelajaran untuk situasi berikutnya:** [Isi].
+- **Dugaan yang dikoreksi:** Mengetahui bahwa metode *Time Blocking* dan *Eisenhower Matrix* yang dipelajari merupakan sarana yang sangat efektif untuk menghindari penundaan tugas jika dieksekusi dengan *strict*.
+- **Stimulus efektif/tidak efektif:** Mendefinisikan manfaat nyata ke diri sendiri, mengajak, dan tidak memaksakan cara terbukti paling efektif. Memaksakan kehendak atau sok tahu adalah stimulus tidak efektif.
+- **Pertumbuhan PASK/ASK diri:** Memahami pentingnya memiliki target *milestone* harian serta keberanian mengisolasi HP demi menjaga fokus.
+- **Relasi:** Pesan yang membantu rasa dipercaya adalah terbuka menerima pendapat orang lain dan mau mendengarkan; pesan yang menghambat adalah kekeh pada metode sendiri.
+- **Preferensi, peran, budaya:** Menghargai lawan bicara yang membutuhkan kepastian prosedur (tipe ISTJ) tanpa menggurui.
+- **Pelajaran untuk situasi berikutnya:** Sikap *stay humble*—tidak boleh menganggap metode diri sendiri paling baik, melainkan menawarkan sebagai alternatif yang bermanfaat.
 
 ## Tindak lanjut dan batas bukti
 
 | Langkah | Penanggung jawab | Waktu | Dukungan | Indikator/cara evaluasi | Status rencana/pelaksanaan |
 |---|---|---|---|---|---|
-| [Isi] | [Isi] | [Isi] | [Isi] | [Isi] | [Isi] |
+| Menerapkan *Eisenhower Matrix* harian | Jevon C. Aritonang | Setiap pagi | Aplikasi Catatan / Paper | Tabel prioritas terisi | Rencana Terjadwal |
+| Menerapkan *Time Blocking* tanpa HP | Jevon C. Aritonang | Saat jam fokus | Pengisolasi HP / Fokus mode | Tugas harian selesai per *milestone* | Siap Dipraktikkan |
 
-[Batas bukti: kelengkapan transkrip, modalitas, perilaku tokoh simulasi, klaim belum terverifikasi, dan hasil di luar sesi. Pastikan hari, tanggal, dan waktu konsisten. Pengiriman portal dilakukan mahasiswa.]
-
-**Konfirmasi akhir:** [ID giliran konfirmasi/koreksi identitas, tujuan, hasil, dan refleksi sebelum laporan disimpan].
-
-{{< include "../../includes/uts-penilaian.md" >}}
+**Konfirmasi akhir:** Data identitas, transkrip, evaluasi, dan refleksi telah dikonfirmasi sah oleh mahasiswa pada giliran U005.

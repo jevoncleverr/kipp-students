@@ -1,9 +1,9 @@
 ---
-title: "[Judul makalah MBTI, komunikasi efektif, dan PASK]"
-subtitle: "[Subjudul jika diperlukan]"
-author: "[Nama mahasiswa - NIM]"
+title: "Judul makalah MBTI, komunikasi efektif, dan PASK"
+subtitle: "Kajian Preferensi Personalitas dan Komunikasi Interpersonal"
+author: "Jevon Cleverivello Aritonang - 18225051"
 lang: id
-status: "Belum dimulai"
+status: "Siap dinilai"
 format:
   html:
     toc: true
@@ -11,19 +11,22 @@ format:
     number-sections: true
 ---
 
-::: {.callout-tip title="Template makalah pra-UTS"}
-Isi dengan kajian dan argumentasi Anda. [Lihat makalah contoh](../../examples/UTS/paper.qmd) dan [kembali ke portfolio Minggu 8](../week-08.qmd). Pertahankan nama `paper.qmd` sesuai instruksi pra-UTS. Hapus panduan pengisian setelah naskah selesai.
-:::
 
 ## Abstrak {.unnumbered}
 
-[Tulis tujuan, metode, pokok pembahasan/hasil kajian, dan kesimpulan setelah isi makalah selesai. Jangan mengklaim penelitian lapangan jika tidak dilakukan.]
+Komunikasi interpersonal melibatkan pertukaran informasi, pemahaman makna, dan penyesuaian respons antara individu. Perbedaan preferensi dalam menerima informasi, mengambil keputusan, dan berinteraksi dapat memengaruhi proses tersebut. Makalah ini bertujuan menjelaskan kategori personalitas Myers-Briggs Type Indicator (MBTI), strategi komunikasi yang adaptif, cara mengenali kemungkinan preferensi melalui percakapan, serta hubungan stimulus, SWOT-like, dan PASK dalam pengembangan diri. Kajian dilakukan melalui telaah konseptual terhadap literatur mengenai tipe psikologis, MBTI, komunikasi interpersonal, dan pembelajaran. Konsep SWOT-like dan PASK dibahas sebagai kerangka analisis dan pengembangan yang perlu disesuaikan dengan definisi dalam bahan ajar KIPP. Pembahasan menunjukkan bahwa MBTI dapat menjadi sarana refleksi untuk memahami perbedaan preferensi, tetapi tidak cukup untuk menetapkan karakter atau memprediksi perilaku seseorang secara pasti. Komunikasi yang efektif memerlukan klarifikasi kebutuhan, pengamatan lintas situasi, umpan balik, dan evaluasi pemahaman. Sementara itu, pengembangan PASK membutuhkan pendidikan yang mengintegrasikan pengetahuan, sikap, keterampilan, dan penafsiran situasi. Dengan demikian, komunikasi dapat digunakan tidak hanya untuk menyampaikan pesan, tetapi juga untuk mendorong refleksi dan pertumbuhan individu.
 
-**Kata kunci:** [Isi].
+**Kata kunci:** MBTI, komunikasi interpersonal, SWOT-like, PASK, stimulus, pengembangan diri.
 
 ## Pendahuluan
 
-[Latar belakang komunikasi interpersonal, relevansi MBTI dan PASK, masalah, tujuan, dan ruang lingkup.]
+Komunikasi interpersonal merupakan bagian penting dalam kehidupan mahasiswa, baik dalam kegiatan perkuliahan, organisasi, maupun hubungan sehari-hari. Mahasiswa perlu menyampaikan pendapat, mendengarkan gagasan orang lain, menyelesaikan perbedaan, dan bekerja sama untuk mencapai tujuan bersama. Keberhasilan proses tersebut tidak hanya bergantung pada kejelasan pesan, tetapi juga pada kemampuan memahami bagaimana orang lain menerima dan menafsirkan pesan.
+
+Dalam praktiknya, perbedaan cara berkomunikasi dapat menimbulkan kesalahpahaman. Seseorang yang menyampaikan kritik untuk memperbaiki pekerjaan mungkin dianggap menyerang pribadi. Orang yang membutuhkan waktu untuk berpikir dapat disalahartikan sebagai tidak tertarik berdiskusi. Sebaliknya, orang yang aktif berbicara mungkin dianggap mendominasi, meskipun ia bermaksud mengembangkan gagasan bersama.
+
+Salah satu kerangka yang dapat digunakan untuk memahami perbedaan preferensi individu adalah Myers-Briggs Type Indicator (MBTI). MBTI mengelompokkan preferensi berdasarkan empat pasangan dimensi, yaitu Extraversion–Introversion, Sensing–Intuition, Thinking–Feeling, serta Judging–Perceiving. Kombinasi keempat dimensi tersebut menghasilkan 16 tipe. Kerangka ini dapat menjadi titik awal untuk mendiskusikan perbedaan gaya komunikasi, tetapi perlu digunakan secara hati-hati agar tidak berubah menjadi stereotip.
+
+Selain memahami preferensi individu, komunikasi juga dapat berfungsi sebagai sarana edukasi. Melalui pertanyaan, simulasi, refleksi, dan umpan balik, seseorang dapat mengembangkan Persepsi, Attitude, Skill, dan Knowledge (PASK). Kerangka SWOT-like dapat digunakan sebagai alat bantu untuk mengenali kekuatan, kelemahan, peluang, dan ancaman yang memengaruhi proses pengembangan tersebut.
 
 Makalah ini menjawab empat pertanyaan:
 
@@ -34,7 +37,15 @@ Makalah ini menjawab empat pertanyaan:
 
 ## Metode dan Kedudukan Kerangka
 
-[Jelaskan jenis kajian, cara memilih sumber, dan langkah analisis. Pisahkan literatur, bahan percakapan AI, dan usulan sendiri. Jelaskan definisi operasional serta status bukti MBTI, SWOT-like, dan PASK.]
+Makalah ini menggunakan pendekatan kajian konseptual berbasis literatur. Pembahasan disusun dengan menghubungkan konsep tipe psikologis, preferensi MBTI, komunikasi interpersonal, dan prinsip pembelajaran. Literatur mengenai MBTI digunakan untuk menjelaskan struktur preferensi, sedangkan literatur komunikasi dan pembelajaran digunakan untuk menyusun strategi komunikasi serta pengembangan PASK.
+
+Analisis dilakukan melalui empat langkah. Pertama, mengidentifikasi konsep utama dan definisinya. Kedua, menjelaskan kemungkinan hubungan antara preferensi individu dan kebutuhan komunikasi. Ketiga, menyusun contoh penerapan dalam situasi mahasiswa. Keempat, mengevaluasi keterbatasan konsep dan kemungkinan penjelasan alternatif.
+
+Makalah ini tidak melaporkan penelitian lapangan, wawancara, eksperimen, atau pengujian program edukasi. Contoh kasus yang digunakan bersifat ilustratif dan berfungsi menjelaskan penerapan konsep, bukan sebagai bukti empiris.
+
+MBTI diperlakukan sebagai kerangka untuk memahami preferensi, bukan sebagai alat diagnosis atau ukuran mutlak kemampuan. Sementara itu, SWOT-like digunakan sebagai kerangka refleksi yang diadaptasi dari analisis SWOT. PASK digunakan untuk mengorganisasi empat aspek pengembangan individu, yaitu Persepsi, Attitude, Skill, dan Knowledge.
+
+Istilah refleks, reaktif, responsif, dan apresiatif dibahas sebagai kategori operasional untuk menganalisis respons dalam konteks edukasi. Definisi tersebut merupakan penjelasan kerja dalam makalah ini dan perlu diselaraskan dengan terminologi khusus yang digunakan dalam bahan ajar KIPP. Hubungan antara SWOT-like, PASK, dan bentuk respons tidak dianggap sebagai model kausal yang telah terbukti secara empiris.
 
 ## Kategori MBTI dan Komunikasi Efektif
 
@@ -44,82 +55,225 @@ Makalah ini menjawab empat pertanyaan:
 
 | Pasangan | Pengertian preferensi | Implikasi yang mungkin bagi komunikasi | Batas/generalisasi yang dihindari |
 |---|---|---|---|
-| E/I | [Isi] | [Isi] | [Isi] |
-| S/N | [Isi] | [Isi] | [Isi] |
-| T/F | [Isi] | [Isi] | [Isi] |
-| J/P | [Isi] | [Isi] | [Isi] |
+| E/I | Extraversion cenderung mengarahkan perhatian pada interaksi dengan dunia luar, sedangkan Introversion cenderung pada refleksi internal. | Sebagian orang nyaman mengembangkan ide melalui diskusi, sedangkan yang lain membutuhkan waktu berpikir. | Banyak berbicara tidak otomatis berarti E; diam tidak otomatis berarti I. |
+| S/N | Sensing cenderung memperhatikan fakta dan detail konkret, sedangkan Intuition cenderung melihat pola dan kemungkinan. | Contoh nyata dapat membantu sebagian orang, sementara gambaran besar dapat membantu yang lain. | Individu S tetap mampu berpikir abstrak dan individu N tetap membutuhkan fakta. |
+| T/F | Thinking cenderung mempertimbangkan konsistensi logis, sedangkan Feeling cenderung mempertimbangkan nilai dan dampak terhadap manusia. | Penjelasan dapat menggabungkan alasan objektif dengan dampak keputusan terhadap orang lain. | T bukan berarti tidak berempati dan F bukan berarti tidak logis. |
+| J/P | Judging cenderung menyukai struktur dan keputusan yang jelas, sedangkan Perceiving cenderung menyukai fleksibilitas dan eksplorasi.| Agenda dan tenggat dapat membantu sebagian orang, sementara ruang penyesuaian dapat membantu yang lain. | J tidak selalu kaku dan P tidak selalu tidak teratur. |
+
+ Empat pasangan tersebut membentuk 16 kombinasi tipe, yaitu ISTJ, ISFJ, INFJ, INTJ, ISTP, ISFP, INFP, INTP, ESTP, ESFP, ENFP, ENTP, ESTJ, ESFJ, ENFJ, dan ENTJ.
+
+Keenam belas tipe tersebut juga sering dikelompokkan menjadi empat kelompok populer: Analysts, Diplomats, Sentinels, dan Explorers. Pengelompokan ini dapat mempermudah pengenalan umum, tetapi tidak menggantikan pemahaman terhadap individu secara langsung. Dua orang dengan tipe yang sama tetap dapat memiliki pengalaman, kemampuan, nilai, dan kebiasaan komunikasi yang berbeda.
 
 ### Implikasi dan batas ilmiah
 
-[Definisikan komunikasi efektif; nilai kekuatan dan keterbatasan bukti. Bedakan preferensi, perilaku, kemampuan, serta kematangan.]
+Komunikasi efektif adalah proses pertukaran pesan yang membantu pihak-pihak yang terlibat mencapai pemahaman yang memadai dan tujuan interaksi yang relevan. Efektivitas dapat dilihat melalui kejelasan pesan, ketepatan pemahaman, kesempatan berpartisipasi, kualitas hubungan, dan keberhasilan menyepakati tindakan.
+
+MBTI dapat membantu individu mengajukan pertanyaan mengenai preferensi komunikasi. Misalnya, apakah seseorang lebih nyaman memperoleh informasi melalui contoh konkret atau gambaran besar? Apakah ia membutuhkan waktu untuk berpikir sebelum berdiskusi? Namun, jawaban terhadap pertanyaan tersebut perlu diperoleh melalui komunikasi langsung, bukan diasumsikan berdasarkan tipe.
+
+Perlu pula dibedakan antara preferensi, perilaku, kemampuan, dan kematangan. Preferensi merujuk pada kecenderungan yang dirasakan seseorang. Perilaku merupakan tindakan yang terlihat dalam situasi tertentu. Kemampuan menunjukkan apa yang dapat dilakukan seseorang, sedangkan kematangan berkaitan dengan kemampuan menggunakan pertimbangan secara tepat sesuai konteks. Keempatnya tidak dapat disamakan.
+
+Dari sisi pengukuran, kajian mengenai MBTI perlu memperhatikan reliabilitas, validitas, dan cara kategorisasi hasilnya. McCrae dan Costa (1989), misalnya, membahas hubungan antara indeks MBTI dan dimensi kepribadian yang ditemukan dalam penelitian mereka. Temuan tersebut menjadi alasan untuk tidak memperlakukan semua kategori MBTI sebagai batas kepribadian yang mutlak. Hasil MBTI lebih tepat digunakan sebagai bahan refleksi daripada sebagai dasar tunggal untuk seleksi, penilaian kemampuan, atau prediksi perilaku.
+
+Dengan demikian, komunikasi efektif sebaiknya dibangun melalui pengamatan, klarifikasi, dan evaluasi respons aktual. MBTI dapat membantu membuka percakapan mengenai perbedaan, tetapi tidak menggantikan keterampilan mendengarkan, empati, penalaran, dan penyesuaian terhadap konteks.
 
 ## Strategi Komunikasi untuk Profil Tertentu
 
-[Uraikan cara mengonfirmasi kebutuhan dan menyesuaikan tempo, media, struktur pesan, bukti, dampak manusia, serta kesepakatan. Berikan contoh kombinasi profil tanpa stereotip.]
+Strategi komunikasi perlu berangkat dari kebutuhan yang benar-benar dikonfirmasi. Preferensi MBTI dapat digunakan untuk menyusun dugaan awal mengenai bentuk komunikasi yang mungkin nyaman bagi seseorang. Dugaan tersebut kemudian diuji melalui pertanyaan dan respons lawan bicara.
 
 | Profil/preferensi | Kebutuhan yang perlu dikonfirmasi | Strategi dan contoh ungkapan | Cara memeriksa efektivitas |
 |---|---|---|---|
-| [Isi] | [Isi] | [Isi] | [Isi] |
+| E | Apakah individu nyaman berdiskusi secara spontan? | Ajak bertukar gagasan: “Kita bahas beberapa ide dulu, lalu pilih yang paling sesuai.” | Periksa apakah semua pihak memperoleh kesempatan bicara. |
+| I | Apakah individu membutuhkan waktu berpikir? | Berikan pertanyaan lebih awal: “Kamu boleh memikirkan ini dulu dan menyampaikan pendapat setelahnya.” | Tanyakan apakah waktu dan cara penyampaian sudah nyaman. |
+| S | Apakah contoh dan detail membantu pemahaman? | Berikan fakta dan langkah konkret: “Ini contoh hasilnya dan tiga langkah untuk mencapainya.” | Minta individu menjelaskan kembali langkah yang dipahami. |
+| N | Apakah individu ingin memahami tujuan dan kemungkinan? | Jelaskan gambaran besar: “Tujuan program ini adalah X; ada beberapa cara untuk mencapainya.” | Periksa apakah gagasan sudah dapat diterjemahkan menjadi tindakan. |
+| T | Apakah individu membutuhkan kriteria dan alasan yang jelas?| Jelaskan data dan konsekuensi: “Kita memilih alternatif ini karena memenuhi tiga kriteria.” | Periksa apakah alasan keputusan dipahami dan dapat diuji. |
+| F | Apakah dampak terhadap anggota tim perlu dibahas? | Gabungkan tujuan dengan dampak manusia: “Kita perlu memenuhi target, sekaligus memastikan pembagian tugas tetap wajar.” | Tanyakan apakah pertimbangan utama semua pihak sudah terwakili. |
+| J | Apakah rencana dan tenggat yang jelas dibutuhkan? | Tetapkan hasil, penanggung jawab, dan waktu: “Kita sepakati target Jumat dan evaluasi Rabu.” | Periksa kesepakatan dan tindak lanjutnya. |
+| P | Apakah individu membutuhkan ruang untuk mencoba alternatif? | Tetapkan batas inti sambil membuka pilihan: “Targetnya tetap Jumat, tetapi cara pengerjaannya bisa kita eksplorasi.” | Evaluasi hasil tanpa menilai fleksibilitas sebagai kekurangan otomatis. |
+
+Strategi di atas merupakan pilihan pendekatan yang dapat dicoba, bukan aturan yang berlaku bagi semua orang dalam kategori tertentu. Komunikator sebaiknya memulai dari kebutuhan individu dan menyesuaikan pendekatan berdasarkan respons yang muncul.
 
 ### Umpan balik dan konflik
 
-[Analisis cara memberi kritik, mendengarkan, menetapkan batas, dan memperbaiki hubungan.]
+Konflik dapat terjadi ketika pihak-pihak yang terlibat memiliki interpretasi, kepentingan, atau cara kerja berbeda. Konflik tidak selalu disebabkan oleh tipe kepribadian. Ketidakjelasan tanggung jawab, keterbatasan waktu, perbedaan informasi, dan ketimpangan beban kerja juga dapat menjadi penyebab.
+
+Umpan balik yang efektif sebaiknya berfokus pada perilaku yang dapat diamati, dampaknya, dan tindakan perbaikan yang diperlukan. Kritik terhadap karakter, seperti menyebut seseorang malas atau tidak peduli, cenderung membuat pembicaraan defensif dan kurang membantu penyelesaian masalah.
+
+Contoh pendekatan yang lebih konstruktif adalah:
+
+“Dalam dua rapat terakhir, laporan belum tersedia pada waktu yang disepakati. Hal ini membuat tim kesulitan menyelesaikan bagian berikutnya. Apakah ada kendala yang perlu kita bahas? Mari kita sepakati langkah dan tenggat yang realistis.”
+
+Pendekatan tersebut menjelaskan situasi secara spesifik, menguraikan dampak, membuka ruang klarifikasi, dan mengarahkan pembicaraan pada solusi. Jika terjadi konflik, pihak-pihak yang terlibat dapat merangkum pendapat lawan bicara, memeriksa pemahaman, mengidentifikasi kebutuhan masing-masing, dan menyepakati tindakan yang dapat dievaluasi.
 
 ## Mengenali Preferensi melalui Percakapan
 
+Percakapan dapat memberikan petunjuk awal tentang cara seseorang memproses informasi dan mengambil keputusan. Namun, ujaran tunggal tidak cukup untuk menetapkan preferensi MBTI. Seseorang yang meminta data, misalnya, belum tentu memiliki preferensi Sensing; ia mungkin membutuhkan data karena sedang mengerjakan tugas yang mensyaratkannya.
+
 | Pola percakapan | Hipotesis sementara | Penjelasan alternatif | Pertanyaan validasi |
 |---|---|---|---|
-| [Isi] | [Isi] | [Isi] | [Isi] |
+| Sering menyampaikan gagasan melalui diskusi spontan. | Mungkin nyaman dengan interaksi verbal. | Tuntutan peran, pengalaman, atau suasana yang nyaman. | “Kamu biasanya lebih mudah berpikir sambil berdiskusi atau setelah memikirkannya sendiri?” |
+| Menekankan fakta, angka, dan contoh. | Mungkin menyukai informasi konkret. | Topik membutuhkan data atau individu sedang memeriksa akurasi. | “Untuk memahami hal baru, kamu lebih suka contoh atau konsep umumnya terlebih dahulu?” |
+| Sering menanyakan makna, pola, dan kemungkinan. | Mungkin tertarik pada gambaran besar. | Sedang melakukan perencanaan strategis atau eksplorasi. | “Apakah kamu biasanya memulai dari tujuan besar atau detail pelaksanaan?”|
+| Menekankan kriteria dan konsistensi logis. | Mungkin mengutamakan analisis eksplisit. | Tugas membutuhkan keputusan objektif. | “Apa pertimbangan terpenting ketika kamu memilih di antara dua alternatif?” |
+| Menyoroti dampak keputusan pada orang lain. | Mungkin memberi perhatian besar pada aspek interpersonal. | Situasi memang berhubungan dengan kesejahteraan orang lain. | “Bagaimana kamu menyeimbangkan kriteria hasil dengan kebutuhan anggota tim?” |
+| Meminta jadwal dan pembagian tugas yang jelas. | Mungkin nyaman dengan struktur. | Proyek memiliki tenggat ketat atau risiko tinggi. | “Seberapa rinci rencana yang kamu butuhkan agar bisa mulai bekerja?” |
+| Mengusulkan alternatif dan perubahan rencana. | Mungkin nyaman dengan fleksibilitas.| Rencana awal tidak sesuai kondis | “Kapan kamu memilih mengikuti rencana dan kapan kamu mengubahnya?” |
 
-[Susun prosedur observasi lintas konteks, klarifikasi kepada individu, serta batas inferensi. Jangan menetapkan tipe seseorang hanya dari satu ujaran.]
+### Prosedur observasi dan validasi
+Pengenalan preferensi melalui percakapan dapat dilakukan melalui prosedur berikut.
+
+1. Tentukan konteks. Catat apakah percakapan berlangsung dalam diskusi akademik, pertemanan, rapat organisasi, atau situasi yang menekan.
+2. Amati pola berulang. Perhatikan kecenderungan dalam beberapa interaksi, bukan satu pernyataan.
+3. Pisahkan pengamatan dan interpretasi. Catat ucapan atau perilaku yang terlihat sebelum menafsirkan preferensinya.
+4. Susun hipotesis alternatif. Pertimbangkan kemungkinan bahwa perilaku disebabkan oleh tuntutan tugas, pengalaman, atau kondisi saat itu.
+5. Klarifikasi secara langsung. Ajukan pertanyaan terbuka dan beri kesempatan individu menjelaskan kebutuhannya.
+6. Evaluasi melalui interaksi berikutnya. Periksa apakah penyesuaian komunikasi benar-benar membantu.
+
+Prosedur tersebut mengurangi risiko kesalahan atribusi, yaitu kecenderungan menjelaskan perilaku orang lain berdasarkan karakter pribadi sambil mengabaikan pengaruh situasi.
+
+Hasil observasi tidak boleh digunakan untuk memberikan diagnosis psikologis atau menetapkan tipe seseorang secara pasti. Jika diperlukan, hasil instrumen MBTI yang sesuai dapat dibahas bersama individu sebagai bahan refleksi. Yang lebih penting dalam komunikasi sehari-hari adalah mengetahui cara yang membantu individu memahami pesan dan bekerja sama dengan baik.
+
+
 
 ## Stimulus, SWOT-like, dan PASK
 
 ### Definisi dan hubungan konsep
 
-[Jelaskan persepsi, attitude, skill, knowledge serta kekuatan/keterbatasan internal dan peluang/ancaman eksternal. Bedakan tafsir subjektif dari keadaan nyata; jelaskan faktor konteks.]
+Stimulus adalah kejadian, informasi, atau situasi yang diterima individu dan dapat memicu proses interpretasi serta respons. Stimulus yang sama tidak selalu menghasilkan respons yang sama karena individu dapat memiliki pengetahuan, pengalaman, sikap, tujuan, dan kondisi emosional berbeda.
+
+Perlu dibedakan antara peristiwa yang terjadi dan interpretasi terhadap peristiwa tersebut. Misalnya, pesan singkat “Tolong revisi bagian ini” merupakan peristiwa yang dapat diamati. Interpretasi bahwa pengirim sedang marah merupakan penafsiran yang belum tentu benar. Pembedaan ini penting karena respons sering dipengaruhi oleh makna yang diberikan individu terhadap situasi.
+
+SWOT merupakan kerangka untuk mengidentifikasi Strengths, Weaknesses, Opportunities, dan Threats. Strengths dan Weaknesses berkaitan dengan faktor internal, sedangkan Opportunities dan Threats berkaitan dengan faktor eksternal. Dalam konteks pengembangan diri, kerangka ini dapat digunakan untuk menilai sumber daya, keterbatasan, kesempatan, dan hambatan yang memengaruhi proses belajar.
+
+PASK merupakan singkatan dari Persepsi, Attitude, Skill, dan Knowledge. Persepsi berkaitan dengan penafsiran terhadap situasi; Attitude dengan sikap atau kecenderungan bertindak; Skill dengan keterampilan praktis; dan Knowledge dengan pengetahuan yang dimiliki. Keempat aspek tersebut dapat saling memengaruhi dalam proses belajar dan komunikasi.
 
 | Unsur SWOT-like | Tafsir terhadap stimulus | Hubungan dengan PASK | Bukti/pertanyaan pemeriksaan |
 |---|---|---|---|
-| Strengths | [Isi] | [Isi] | [Isi] |
-| Weaknesses | [Isi] | [Isi] | [Isi] |
-| Opportunities | [Isi] | [Isi] | [Isi] |
-| Threats | [Isi] | [Isi] | [Isi] |
+| Strengths | Situasi menunjukkan sumber daya atau kemampuan yang dapat dimanfaatkan. | Knowledge atau Skill yang telah dikuasai dapat menjadi kekuatan, begitu pula kebiasaan refleksi yang membantu individu. | “Kemampuan apa yang sudah terbukti membantu dalam situasi serupa?” |
+| Weaknesses | Situasi memperlihatkan keterbatasan yang menghambat tujuan. | Keterbatasan pengetahuan, keterampilan, atau cara menafsirkan informasi dapat menjadi kebutuhan pengembangan. | “Bagian mana yang belum dikuasai, dan bukti apa yang menunjukkannya?” |
+| Opportunities | Situasi menyediakan kesempatan untuk belajar atau bertumbuh. | Pelatihan, mentor, dan kesempatan praktik dapat mengembangkan PASK. | “Sumber daya atau kesempatan apa yang tersedia dan dapat dimanfaatkan?” |
+| Threats | Situasi mengandung hambatan atau risiko dari lingkungan. | Tekanan waktu, konflik, dan lingkungan yang tidak mendukung dapat menghambat penerapan PASK. | “Hambatan mana yang berada di luar kendali langsung, dan bagaimana dampaknya dapat dikurangi?” |
+
+SWOT-like sebaiknya tidak hanya berisi label positif dan negatif. Setiap kesimpulan perlu didukung contoh atau bukti yang relevan. Sebagai contoh, pernyataan “kurang mampu berkomunikasi” terlalu umum. Pernyataan yang lebih berguna adalah “belum mampu merangkum pendapat anggota lain sebelum menyampaikan tanggapan”, karena perilaku tersebut dapat diamati dan dilatih.
+
+PASK juga tidak sebaiknya diperlakukan sebagai empat kategori yang sepenuhnya terpisah. Individu dapat memahami prinsip komunikasi tetapi belum terampil menerapkannya. Ia juga dapat memiliki keterampilan yang baik tetapi memilih tidak menggunakannya karena sikap atau situasi yang sedang dihadapi. Analisis perlu melihat hubungan antar-aspek tersebut.
 
 ### Bentuk respons
 
+Dalam makalah ini, empat bentuk respons digunakan sebagai definisi operasional untuk menganalisis tindakan individu setelah menerima stimulus. Kategori ini merupakan alat bantu refleksi, bukan klasifikasi psikologis yang menetapkan nilai seseorang.
+
 | Bentuk | Definisi operasional | Contoh | Kapan tepat/tidak tepat |
 |---|---|---|---|
-| Refleks | [Isi] | [Isi] | [Isi] |
-| Reaktif | [Isi] | [Isi] | [Isi] |
-| Responsif | [Isi] | [Isi] | [Isi] |
-| Apresiatif | [Isi] | [Isi] | [Isi] |
+| Refleks | Respons otomatis yang berlangsung tanpa pertimbangan sadar yang berarti. | Berkedip ketika benda bergerak cepat mendekati mata. | Berguna dalam respons perlindungan otomatis; tidak tepat digunakan sebagai ukuran kematangan komunikasi. |
+| Reaktif | Respons cepat yang sangat dipengaruhi pemicu, emosi, atau interpretasi awal. | Langsung membalas kritik dengan menyalahkan orang yang memberi masukan. | Dapat muncul ketika individu merasa terancam; perlu ditinjau kembali jika menghambat pemahaman atau penyelesaian masalah. |
+| Responsif | Respons yang mempertimbangkan konteks, tujuan, informasi, dan konsekuensi sebelum bertindak. | Meminta contoh kritik, memeriksa masalah, lalu menentukan perbaikan. | Berguna untuk menyelesaikan masalah; tetap perlu mempertimbangkan kebutuhan emosional dan hubungan. |
+| Apresiatif | Respons yang secara aktif menghargai kontribusi atau perspektif pihak lain sambil tetap menilai isi pesan secara kritis. | Berterima kasih atas masukan, mengidentifikasi bagian yang bermanfaat, lalu menyusun tindak lanjut. | Membantu pembelajaran dan hubungan; tidak berarti harus menyetujui semua pendapat atau mengabaikan batas pribadi. |
+
+Respons refleks berbeda dari tiga kategori lain karena banyak refleks fisiologis terjadi secara otomatis. Oleh sebab itu, istilah tersebut tidak sebaiknya ditempatkan sebagai tingkat perilaku yang lebih rendah daripada respons lainnya. Reaktif, responsif, dan apresiatif lebih berguna untuk membahas cara individu mengelola respons interpersonal dalam situasi tertentu.
+
+Seseorang juga dapat memberikan respons yang berbeda pada situasi yang berbeda. Individu yang biasanya responsif dapat bereaksi secara defensif ketika berada dalam tekanan tinggi. Karena itu, tujuan edukasi adalah meningkatkan kemampuan memilih respons yang sesuai, bukan memberi label permanen kepada individu.
 
 ## Pendidikan untuk Menumbuhkan PASK
 
+Pendidikan dapat membantu individu memperluas pengetahuan, meninjau interpretasi, membangun sikap, dan melatih keterampilan. Agar perubahan tersebut terjadi, pembelajaran perlu menghubungkan konsep dengan pengalaman dan kesempatan untuk mempraktikkannya.
+
 | Dimensi | Kebutuhan awal | Intervensi/kegiatan | Penyesuaian preferensi | Bukti pertumbuhan |
 |---|---|---|---|---|
-| Persepsi | [Isi] | [Isi] | [Isi] | [Isi] |
-| Sikap | [Isi] | [Isi] | [Isi] | [Isi] |
-| Keterampilan | [Isi] | [Isi] | [Isi] | [Isi] |
-| Pengetahuan | [Isi] | [Isi] | [Isi] | [Isi] |
+| Persepsi | Individu sering menganggap kritik sebagai serangan pribadi. | Analisis kasus, latihan membedakan fakta dan interpretasi, serta refleksi alternatif penjelasan. | Sediakan contoh konkret dan pertanyaan reflektif; pilih format yang membantu peserta berpikir. | Individu dapat menyebutkan lebih dari satu interpretasi dan memeriksa bukti sebelum menyimpulkan. |
+| Sikap | Individu cenderung menolak masukan atau memotong pembicaraan. | Keteladanan, diskusi, kesepakatan kelompok, dan refleksi mengenai dampak perilaku. | Berikan ruang diskusi maupun refleksi individual tanpa mengasumsikan kebutuhan berdasarkan tipe. | Individu lebih konsisten mendengarkan, menghargai perbedaan, dan mempertimbangkan masukan. |
+| Keterampilan | Individu belum terampil memberikan kritik secara konstruktif. | Simulasi, permainan peran, latihan mendengarkan aktif, dan umpan balik berulang. | Gunakan demonstrasi, naskah latihan, atau skenario terbuka sesuai kebutuhan peserta. | Perilaku komunikasi dapat diamati dan memenuhi kriteria rubrik yang telah ditentukan. |
+| Pengetahuan | Individu belum memahami perbedaan fakta, asumsi, opini, dan interpretasi. | Materi ringkas, bacaan, studi kasus, kuis, dan diskusi penerapan konsep. | Gabungkan ringkasan terstruktur, contoh, dan pertanyaan eksploratif. | Individu mampu menjelaskan konsep dan menerapkannya pada kasus baru. |
 
-[Rancang stimulus edukatif, pendampingan, simulasi, refleksi, uji ulang, dan evaluasi transfer. Nyatakan apakah program merupakan usulan atau sudah diuji.]
+### Rancangan program edukatif
+
+Sebagai usulan, pengembangan PASK dapat dilakukan melalui siklus pembelajaran berikut.
+
+- Tahap 1: Identifikasi kebutuhan. Pendidik menentukan perilaku yang ingin dikembangkan melalui observasi, refleksi diri, atau diskusi. Kebutuhan perlu dirumuskan secara spesifik, misalnya kemampuan menerima kritik tanpa langsung menyela.
+
+- Tahap 2: Pemberian stimulus. Peserta memperoleh kasus atau simulasi yang relevan dengan tujuan pembelajaran. Stimulus perlu realistis dan cukup menantang, tetapi tidak dirancang untuk mempermalukan peserta.
+
+- Tahap 3: Refleksi dan klarifikasi. Peserta menjelaskan apa yang mereka amati, bagaimana mereka menafsirkan situasi, serta informasi apa yang masih dibutuhkan. Pada tahap ini, pendidik membantu peserta membedakan fakta dari asumsi.
+
+- Tahap 4: Pemberian materi dan model. Pendidik menjelaskan konsep yang relevan, memberikan contoh perilaku yang diharapkan, dan menunjukkan cara menerapkannya. Materi dapat disesuaikan dengan kebutuhan belajar tanpa mengunci peserta pada tipe MBTI tertentu.
+
+- Tahap 5: Latihan dan umpan balik. Peserta mengulangi simulasi menggunakan strategi yang telah dipelajari. Umpan balik harus spesifik, berfokus pada perilaku, dan disertai saran perbaikan.
+
+- Tahap 6: Uji ulang dan transfer. Peserta menghadapi kasus baru untuk mengetahui apakah keterampilan dapat diterapkan di luar latihan awal. Pendidik dapat meminta refleksi atau penilaian berdasarkan rubrik yang sama.
+
+- Tahap 7: Evaluasi perkembangan. Perubahan dinilai berdasarkan bukti yang dapat diamati, seperti kemampuan merangkum pendapat, mengajukan pertanyaan klarifikasi, dan menyusun tindak lanjut. Program ini merupakan usulan konseptual dalam makalah dan belum diuji melalui penelitian lapangan.
+
+Penyesuaian berdasarkan preferensi MBTI dapat digunakan sebagai pilihan awal dalam merancang kegiatan. Peserta yang nyaman berdiskusi dapat memperoleh kesempatan bertukar gagasan, sedangkan peserta yang membutuhkan waktu refleksi dapat memperoleh waktu persiapan. Namun, semua peserta tetap perlu diberi kesempatan untuk mengembangkan kemampuan yang belum terbiasa mereka gunakan.
 
 ## Contoh Integratif
 
-[Analisis satu kasus: peristiwa, dugaan awal, validasi, SWOT/PASK, respons, penyesuaian komunikasi, dan rencana belajar. Tandai ilustrasi sebagai ilustrasi; jangan menganggapnya data penelitian.]
+Bagian ini menyajikan ilustrasi hipotetis mengenai mahasiswa yang menerima kritik saat mengerjakan proyek kelompok. Kasus ini bukan hasil observasi atau penelitian lapangan.
+
+Peristiwa. Seorang mahasiswa menerima pesan dari anggota kelompok: “Bagian analisismu perlu direvisi karena kesimpulannya belum didukung data.”
+
+Dugaan awal. Mahasiswa tersebut menafsirkan pesan sebagai tanda bahwa anggota kelompok tidak menghargai pekerjaannya. Ia langsung membalas dengan membela hasil analisisnya tanpa memeriksa data yang dimaksud.
+
+Validasi. Setelah suasana lebih tenang, mahasiswa mengajukan pertanyaan: “Bagian mana yang belum didukung data? Bisa tunjukkan contoh yang perlu diperbaiki?” Anggota kelompok kemudian menjelaskan bahwa dua klaim dalam laporan belum memiliki sumber pendukung.
+
+### Analisis SWOT-like
+| Unsur | Analisis Ilustratif | 
+|---|---|
+| Strengths | Mahasiswa telah memahami topik dan mampu menyusun argumen. |
+| Weaknesses | Mahasiswa cenderung menafsirkan kritik sebagai penolakan terhadap dirinya dan belum terbiasa meminta klarifikasi. |
+| Opportunities | Anggota kelompok bersedia memberikan contoh; terdapat kesempatan merevisi laporan sebelum tenggat. |
+| Threats | Waktu pengerjaan terbatas dan komunikasi melalui pesan singkat dapat meningkatkan risiko salah tafsir. |
+
+### Analisis PASK
+
+Persepsi: mahasiswa perlu membedakan evaluasi terhadap hasil kerja dari penilaian terhadap harga dirinya.
+
+Attitude: mahasiswa dapat melatih keterbukaan terhadap masukan dan kesediaan memeriksa bukti.
+
+Skill: mahasiswa perlu berlatih meminta klarifikasi, merangkum kritik, dan menyusun langkah revisi.
+
+Knowledge: mahasiswa perlu memahami bahwa klaim dalam analisis akademik harus didukung bukti yang relevan.
+
+Penyesuaian komunikasi. Anggota kelompok dapat menyampaikan kritik dengan menyebutkan bagian laporan, bukti yang belum tersedia, dan tindakan yang disarankan. Mahasiswa yang menerima kritik dapat meminta contoh, memeriksa sumber, dan menyepakati revisi bersama. Kedua pihak tetap dapat menetapkan batas jika komunikasi mulai berubah menjadi serangan personal.
+
+Rencana belajar. Mahasiswa melakukan latihan menerima umpan balik pada tugas berikutnya. Setelah menerima kritik, ia diminta merangkum inti masukan sebelum memberikan tanggapan. Perkembangan dapat dievaluasi melalui pengamatan perilaku, refleksi diri, dan kualitas tindak lanjut.
+
+Ilustrasi tersebut menunjukkan bahwa respons interpersonal tidak hanya dipengaruhi oleh dugaan tipe kepribadian. Pengetahuan, persepsi, sikap, keterampilan, kualitas pesan, hubungan antarpihak, dan tekanan waktu juga berperan. Karena itu, intervensi yang berfokus pada perilaku dan kebutuhan aktual lebih berguna daripada sekadar memberi label MBTI.
 
 ## Pembahasan dan Keterbatasan
 
-[Sintesis empat pertanyaan; hubungan antar-konsep; alternatif penjelasan, keterbatasan sumber/metode, dan kebutuhan penelitian lanjutan.]
+Pembahasan terhadap empat pertanyaan utama menunjukkan bahwa MBTI dapat digunakan sebagai kerangka percakapan mengenai preferensi, tetapi penerapannya membutuhkan kehati-hatian. Empat pasangan preferensi membantu mengidentifikasi kemungkinan perbedaan kebutuhan komunikasi. Namun, preferensi tersebut tidak menentukan kemampuan, nilai moral, atau perilaku seseorang dalam setiap situasi.
+
+Strategi komunikasi yang efektif karena itu perlu menggabungkan pemahaman konseptual dengan validasi langsung. Memberikan waktu berpikir, menyediakan contoh konkret, menjelaskan alasan keputusan, atau menyepakati struktur kerja merupakan pendekatan yang dapat dicoba. Efektivitasnya harus diperiksa melalui pemahaman pesan dan hasil interaksi, bukan diasumsikan berdasarkan tipe.
+
+Pola percakapan dapat digunakan untuk menyusun hipotesis awal, tetapi perlu mempertimbangkan konteks dan penjelasan alternatif. Satu ujaran tidak cukup untuk menetapkan tipe karena perilaku dipengaruhi tuntutan tugas, pengalaman, budaya, kondisi emosional, dan hubungan dengan lawan bicara.
+
+Dalam konteks edukasi, SWOT-like dapat membantu memetakan faktor internal dan eksternal yang mendukung atau menghambat perkembangan. PASK dapat membantu merumuskan kebutuhan intervensi secara lebih spesifik. Namun, hubungan antara kedua kerangka tersebut dalam makalah ini bersifat konseptual. Belum ada data lapangan yang menunjukkan bahwa kombinasi tersebut secara langsung menghasilkan perubahan respons tertentu.
+
+Kategori refleks, reaktif, responsif, dan apresiatif juga memiliki keterbatasan. Refleks fisiologis berbeda dari pilihan respons interpersonal yang melibatkan penilaian sadar. Karena itu, istilah-istilah tersebut perlu didefinisikan secara konsisten sebelum digunakan dalam penelitian atau penilaian formal.
+
+Keterbatasan lainnya adalah bahwa makalah ini tidak melakukan pencarian literatur sistematis, pengumpulan data primer, maupun evaluasi program edukasi. Contoh yang diberikan bersifat ilustratif. Kajian lanjutan dapat membandingkan beberapa pendekatan edukasi, menggunakan indikator perilaku yang jelas, serta mengevaluasi perubahan keterampilan komunikasi sebelum dan sesudah latihan.
+
+Dengan demikian, kontribusi utama makalah ini adalah menyusun kerangka praktis untuk memahami preferensi, memeriksa asumsi, menyesuaikan komunikasi, dan merancang pembelajaran. Kerangka tersebut perlu digunakan secara reflektif dan dievaluasi berdasarkan bukti, bukan diperlakukan sebagai model yang berlaku universal.
 
 ## Kesimpulan
 
-[Jawab keempat pertanyaan secara ringkas berdasarkan argumentasi dan sumber yang sudah dibahas.]
+Pertama, MBTI merupakan kerangka preferensi yang terdiri atas empat pasangan dimensi dan menghasilkan 16 kombinasi tipe. Kerangka ini dapat membantu memahami kemungkinan perbedaan gaya komunikasi, tetapi tidak menentukan kemampuan atau perilaku seseorang secara mutlak. Komunikasi efektif tetap memerlukan klarifikasi, mendengarkan aktif, dan evaluasi pemahaman.
+
+Kedua, komunikasi dengan individu yang memiliki preferensi berbeda dapat disesuaikan melalui tempo interaksi, tingkat detail, penyajian alasan, pertimbangan dampak terhadap manusia, serta struktur dan fleksibilitas. Strategi tersebut perlu dikonfirmasi kepada individu dan tidak boleh diterapkan sebagai stereotip.
+
+Ketiga, pola percakapan dapat memberikan petunjuk awal mengenai preferensi MBTI, tetapi tidak cukup untuk menetapkan tipe secara pasti. Pengamatan perlu dilakukan lintas konteks, disertai pertanyaan validasi, dan mempertimbangkan penjelasan alternatif.
+
+Keempat, SWOT-like dapat membantu mengidentifikasi kekuatan, kelemahan, peluang, dan ancaman, sedangkan PASK membantu mengorganisasi pengembangan persepsi, sikap, keterampilan, dan pengetahuan. Pendidikan dapat mendukung proses tersebut melalui stimulus yang relevan, refleksi, latihan, umpan balik, dan evaluasi transfer. Kategori respons perlu digunakan sebagai alat refleksi, bukan label permanen terhadap individu.
+
+Secara keseluruhan, komunikasi interpersonal yang efektif berangkat dari kesediaan memahami orang lain tanpa menyederhanakannya menjadi tipe tertentu. Melalui refleksi, klarifikasi, dan latihan yang terarah, komunikasi dapat menjadi sarana membangun hubungan sekaligus mengembangkan potensi individu.
 
 ## Daftar Pustaka {.unnumbered}
 
-[Cantumkan hanya sumber yang benar-benar dibaca/digunakan. Gunakan format konsisten dan tautan/DOI yang tepat; pastikan setiap sitasi memiliki entri.]
+Daftar Pustaka {.unnumbered}
+
+Briggs Myers, I., McCaulley, M. H., Quenk, N. L., & Hammer, A. L. (1998). MBTI Manual: A Guide to the Development and Use of the Myers-Briggs Type Indicator (3rd ed.). Consulting Psychologists Press.
+
+McCrae, R. R., & Costa, P. T., Jr. (1989). Reinterpreting the Myers-Briggs Type Indicator from the perspective of the five-factor model of personality. Journal of Personality, 57(1), 17–40. https://doi.org/10.1111/j.1467-6494.1989.tb00759.x
+
+Myers & Briggs Foundation. (n.d.). The Myers-Briggs Type Indicator (MBTI). https://www.myersbriggs.org/
 
 {{< include "../../includes/uts-penilaian.md" >}}
