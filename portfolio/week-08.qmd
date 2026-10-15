@@ -28,7 +28,7 @@ Baca [instruksi UTS](../lk/lk-UTS/index.qmd), jalankan ZIP sesuai NIM, lalu isi 
 
 | Tahap | Template untuk diisi | Target sesuai ZIP | Status | Bukti/ID atau bagian yang masih kurang |
 |---|---|---|---|---|
-| Pra-UTS | [paper.qmd](UTS/paper.qmd) | Kajian empat pertanyaan MBTI/PASK | Belum dimulai | [Isi] |
+| Pra-UTS | [paper.qmd](UTS/paper.qmd) | Kajian empat pertanyaan MBTI/PASK | **Selesai** | Kajian Preferensi Personalitas dan Komunikasi Interpersonal |
 | 1 | [hasil_1.qmd](UTS/hasil_1.qmd) | Diri; Pembanding Budi (K1-02) | **Selesai** | Laporan lengkap, transkrip U001-U005 |
 | 2a | [hasil_2a.qmd](UTS/hasil_2a.qmd) | Target Doni (K2-01) | **Selesai** | Laporan lengkap Sesi 2a |
 | 2b | [hasil_2b.qmd](UTS/hasil_2b.qmd) | Target Rian (K2-02) | **Selesai** | Laporan lengkap Sesi 2b |
